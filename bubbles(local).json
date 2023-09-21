@@ -1,0 +1,8081 @@
+[{
+  "_id": {
+    "$oid": "60da46ccdfd6220cf6dd2e8a"
+  },
+  "isdeleted": false,
+  "name": "Non Communicable Diseases I",
+  "topic_id": {
+    "$oid": "60c62375dfd6220cf6dd2e38"
+  },
+  "level": 3,
+  "order": 13,
+  "image": "/images/7e798757e8a89aa2c781bb13c1f17a80.png",
+  "createdAt": {
+    "$date": "2021-06-28T22:01:48.437Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60cd12ffdfd6220cf6dd2e6c"
+  },
+  "isdeleted": false,
+  "name": "Enzymes I",
+  "topic_id": {
+    "$oid": "60c62375dfd6220cf6dd2e38"
+  },
+  "level": 1,
+  "order": 19,
+  "image": "/images/2bc97e0343e5bc732a4c709354b7112a.png",
+  "createdAt": {
+    "$date": "2021-06-18T21:41:19.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ccab1adfd6220cf6dd2e57"
+  },
+  "isdeleted": false,
+  "name": "Osmosis",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 2,
+  "order": 4,
+  "image": "/images/0428cc78a3f5c55478e6ac60147fc035.png",
+  "createdAt": {
+    "$date": "2021-06-18T14:18:02.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60da4718dfd6220cf6dd2e8c"
+  },
+  "isdeleted": false,
+  "name": "Plant Transportation",
+  "topic_id": {
+    "$oid": "60c62375dfd6220cf6dd2e38"
+  },
+  "level": 3,
+  "order": 11,
+  "image": "/images/81876e434e7e0ed5986dab784e7111c9.png",
+  "createdAt": {
+    "$date": "2021-06-28T22:03:04.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e1dc4c27dbc37ef0be8e0a"
+  },
+  "isdeleted": false,
+  "name": "Fungal and Protist Diseases",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 1,
+  "order": 27,
+  "image": "/images/c2eb26725e3815f9fc4c3780f7839264.png",
+  "createdAt": {
+    "$date": "2021-07-04T16:05:32.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60cc80c2dfd6220cf6dd2e42"
+  },
+  "isdeleted": false,
+  "name": "Active Transport",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 7,
+  "image": "/images/e89cc4ff65762921bc4dc33cb0dc71b4.png",
+  "createdAt": {
+    "$date": "2021-06-18T11:17:22.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60df243b27dbc37ef0be8e07"
+  },
+  "isdeleted": false,
+  "name": "Communicable Diseases",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 1,
+  "order": 30,
+  "image": "/images/2163220dfa19ed446dbaa0256d59e75f.png",
+  "createdAt": {
+    "$date": "2021-07-02T14:35:39.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f5c713521f924182ae9afe"
+  },
+  "isdeleted": false,
+  "name": "Cell Respiration I",
+  "topic_id": {
+    "$oid": "60dda66ddfd6220cf6dd2eac"
+  },
+  "level": 1,
+  "order": 39,
+  "image": "/images/1f3fc29e533f7921bbad5f1fae52d471.png",
+  "createdAt": {
+    "$date": "2021-07-19T18:40:19.783Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f6c3b3521f924182ae9aff"
+  },
+  "isdeleted": false,
+  "name": "Photosynthesis II",
+  "topic_id": {
+    "$oid": "60dda66ddfd6220cf6dd2eac"
+  },
+  "level": 1,
+  "order": 38,
+  "image": "/images/dd929f958aca699e74336bc1f42483c6.png",
+  "createdAt": {
+    "$date": "2021-07-20T12:38:11.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611a5297521f924182ae9b26"
+  },
+  "isdeleted": false,
+  "name": "History of the Atom",
+  "topic_id": {
+    "$oid": "60d47aeedfd6220cf6dd2e6e"
+  },
+  "level": 1,
+  "order": -3,
+  "image": "/images/f907f0ff188e0396e0e23ed1aa751e42.png",
+  "createdAt": {
+    "$date": "2021-08-16T11:57:11.191Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61410c7c521f924182ae9c0a"
+  },
+  "isdeleted": false,
+  "name": "Religion and Life",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 1,
+  "order": -211,
+  "image": "/images/3b5636a2855fab9b7d69c9fbd6b68bf6.png",
+  "createdAt": {
+    "$date": "2021-09-14T20:56:28.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "614c5a3f521f924182ae9c4f"
+  },
+  "isdeleted": true,
+  "name": "Electrolysis II",
+  "topic_id": {
+    "$oid": "60db2c06dfd6220cf6dd2ea4"
+  },
+  "level": 3,
+  "order": -34,
+  "image": "/images/986080170caa75030300e03c3fd61a83.png",
+  "createdAt": {
+    "$date": "2021-09-23T10:43:11.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "615d8122521f924182ae9cd5"
+  },
+  "isdeleted": false,
+  "name": "The National Grid",
+  "topic_id": {
+    "$oid": "615490af521f924182ae9c94"
+  },
+  "level": 1,
+  "order": -112,
+  "image": "/images/df4249b889eaded9e0e9f05b6a69da1e.png",
+  "createdAt": {
+    "$date": "2021-10-06T10:57:38.764Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "618bbb39521f924182ae9d78"
+  },
+  "isdeleted": false,
+  "name": "Fractions",
+  "topic_id": {
+    "$oid": "618bb7eb521f924182ae9d72"
+  },
+  "level": 2,
+  "order": 45,
+  "image": "/images/0331a801bc1103490d8c04c910dbf279.jpg",
+  "createdAt": {
+    "$date": "2021-11-10T12:29:45.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b33efc521f924182ae9df5"
+  },
+  "isdeleted": false,
+  "name": "Sexual and Asexual Reproduction",
+  "topic_id": {
+    "$oid": "60dda71027dbc37ef0be8e05"
+  },
+  "level": 1,
+  "order": 80,
+  "image": "/images/3f8dd2185ab98482d43f41cec87e26bb.png",
+  "createdAt": {
+    "$date": "2021-12-10T11:50:20.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b49f54521f924182ae9df8"
+  },
+  "isdeleted": false,
+  "name": "Fossils and Extinction",
+  "topic_id": {
+    "$oid": "60dda71027dbc37ef0be8e05"
+  },
+  "level": 1,
+  "order": 77,
+  "image": "/images/9afcc2555583bc10fd52677aa61c5dc1.png",
+  "createdAt": {
+    "$date": "2021-12-11T12:53:40.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b4a01e521f924182ae9df9"
+  },
+  "isdeleted": false,
+  "name": "Genetic Inheritance I",
+  "topic_id": {
+    "$oid": "60dda71027dbc37ef0be8e05"
+  },
+  "level": 2,
+  "order": 76,
+  "image": "/images/d20d6a2bdba28f30a5404a01a11f2125.png",
+  "createdAt": {
+    "$date": "2021-12-11T12:57:02.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d460102c13a37e317409aa"
+  },
+  "isdeleted": false,
+  "name": "Trophic Levels",
+  "topic_id": {
+    "$oid": "60dda72127dbc37ef0be8e06"
+  },
+  "level": 3,
+  "order": 83,
+  "image": "/images/6912cb30156a376a4ba7e305649f7be6.jpg",
+  "createdAt": {
+    "$date": "2022-01-04T14:56:16.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6346ee13e35addbc2776f13f"
+  },
+  "isdeleted": false,
+  "name": "Rate of Reaction II",
+  "topic_id": {
+    "$oid": "60dda590dfd6220cf6dd2ea6"
+  },
+  "level": 2,
+  "order": 116,
+  "image": "/images/7f24db9832035514535faa08da0739d5.jpg",
+  "createdAt": {
+    "$date": "2022-10-12T16:40:51.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634f2f15e35addbc2776f176"
+  },
+  "isdeleted": false,
+  "name": "Alkenes",
+  "topic_id": {
+    "$oid": "60dda5a8dfd6220cf6dd2ea7"
+  },
+  "level": 3,
+  "order": 125,
+  "image": "/images/6ef2029b6aca2d2005671b8d7b36787f.jpg",
+  "createdAt": {
+    "$date": "2022-10-18T22:56:21.313Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6357c572e35addbc2776f1b4"
+  },
+  "isdeleted": false,
+  "name": "Tests for Anions",
+  "topic_id": {
+    "$oid": "60dda5c5dfd6220cf6dd2ea8"
+  },
+  "level": 3,
+  "order": 135,
+  "image": "/images/3c8135b5df9f42d289d780e15cccb5f8.png",
+  "createdAt": {
+    "$date": "2022-10-25T11:16:02.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636851b42aa7bc65f174d945"
+  },
+  "isdeleted": false,
+  "name": "Forces and Motion I",
+  "topic_id": {
+    "$oid": "6367d0cf2aa7bc65f174d940"
+  },
+  "level": 1,
+  "order": 169,
+  "image": "/images/937003e5ae1bd7855bb11533d8a1cf69.png",
+  "createdAt": {
+    "$date": "2022-11-07T00:30:44.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6377612c2aa7bc65f174d989"
+  },
+  "isdeleted": false,
+  "name": "Black Body Radiation",
+  "topic_id": {
+    "$oid": "6367d0fd2aa7bc65f174d941"
+  },
+  "level": 3,
+  "order": 174,
+  "image": "/images/8ffdc86759ab0e2462bd65a31cdf2184.png",
+  "createdAt": {
+    "$date": "2022-11-18T10:40:44.425Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637bab632aa7bc65f174d9c6"
+  },
+  "isdeleted": false,
+  "name": "Microphones and Loudspeakers",
+  "topic_id": {
+    "$oid": "6367d1422aa7bc65f174d942"
+  },
+  "level": 3,
+  "order": 185,
+  "image": "/images/5967ed5d1a12bd420965684b9a7e8064.jpg",
+  "createdAt": {
+    "$date": "2022-11-21T16:46:27.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fd29cb2aa7bc65f174da1b"
+  },
+  "isdeleted": false,
+  "name": "Macbeth Quotes",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 209,
+  "image": "/images/c062a5fa674b998567d717b0b49f059a.jpg",
+  "createdAt": {
+    "$date": "2023-02-27T22:08:11.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fe1c3b2aa7bc65f174da23"
+  },
+  "isdeleted": false,
+  "name": "Reality VS Appearance Quotes ",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 3,
+  "order": 202,
+  "image": "/images/606f8c4fd61a2eff2f27760513f89cd9.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:22:35.905Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64011a572aa7bc65f174da5d"
+  },
+  "isdeleted": false,
+  "name": "Language and Style",
+  "topic_id": {
+    "$oid": "6401136c2aa7bc65f174da58"
+  },
+  "level": 2,
+  "order": 216,
+  "image": "/images/4e8bf094b21fb51a9f71460647e94999.jpg",
+  "createdAt": {
+    "$date": "2023-03-02T21:51:19.371Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6407aeb02aa7bc65f174da9a"
+  },
+  "isdeleted": false,
+  "name": "Characterisation and Narrative Point of View",
+  "topic_id": {
+    "$oid": "64065d6d2aa7bc65f174da96"
+  },
+  "level": 1,
+  "order": 427,
+  "image": "/images/09a43b922f1099e9b29d5c127f7a6934.png",
+  "createdAt": {
+    "$date": "2023-03-07T21:37:52.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6407aed22aa7bc65f174da9b"
+  },
+  "isdeleted": false,
+  "name": "Style and Language",
+  "topic_id": {
+    "$oid": "64065d6d2aa7bc65f174da96"
+  },
+  "level": 2,
+  "order": 426,
+  "image": "/images/399b788f126a43a3f0bc81cb329215a5.png",
+  "createdAt": {
+    "$date": "2023-03-07T21:38:26.761Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641f24012aa7bc65f174dadb"
+  },
+  "isdeleted": false,
+  "name": "A Christmas Carol: Plot and Character Analysis",
+  "topic_id": {
+    "$oid": "641eeeb22aa7bc65f174dada"
+  },
+  "level": 1,
+  "order": 440,
+  "image": "/images/620648facde3c5802b8b2dd604cbd454.png",
+  "createdAt": {
+    "$date": "2023-03-25T16:40:33.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641f24972aa7bc65f174dadd"
+  },
+  "isdeleted": false,
+  "name": "A Christmas Carol: Themes and Motifs",
+  "topic_id": {
+    "$oid": "641eeeb22aa7bc65f174dada"
+  },
+  "level": 1,
+  "order": 438,
+  "image": "/images/f3ac4d440779cd5559d1c9bd35d27879.png",
+  "createdAt": {
+    "$date": "2023-03-25T16:43:03.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6426fab12aa7bc65f174dae2"
+  },
+  "isdeleted": false,
+  "name": "Exploration of Morality and Ethics",
+  "topic_id": {
+    "$oid": "641eeeb22aa7bc65f174dada"
+  },
+  "level": 3,
+  "order": 433,
+  "image": "/images/c3e667d23d9715f0ca8ea7ec8a04a1b6.png",
+  "createdAt": {
+    "$date": "2023-03-31T15:22:25.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611a5245521f924182ae9b25"
+  },
+  "isdeleted": false,
+  "name": "Separating Mixtures I ",
+  "topic_id": {
+    "$oid": "60d47aeedfd6220cf6dd2e6e"
+  },
+  "level": 1,
+  "order": -2,
+  "image": "/images/7989f32b20428e110dbfb7e35c5e1679.png",
+  "createdAt": {
+    "$date": "2021-08-16T11:55:49.484Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61388e0f521f924182ae9bab"
+  },
+  "isdeleted": false,
+  "name": "Relative Formula Mass",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 1,
+  "order": -20,
+  "image": "/images/c9b08b66e8a0d92898d3dce4bfa5801d.jpg",
+  "createdAt": {
+    "$date": "2021-09-08T10:18:55.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6138927e521f924182ae9bb1"
+  },
+  "isdeleted": false,
+  "name": "Reacting Masses II",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 2,
+  "order": -25,
+  "image": "/images/22721995223f09e022932222af4c8f06.jpg",
+  "createdAt": {
+    "$date": "2021-09-08T10:37:50.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61389364521f924182ae9bb4"
+  },
+  "isdeleted": false,
+  "name": "Concentration of Solutions II",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 3,
+  "order": -28,
+  "image": "/images/17b0ef026cb38ea67e242b69e9ccb6b1.jpg",
+  "createdAt": {
+    "$date": "2021-09-08T10:41:40.971Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61410ca8521f924182ae9c0c"
+  },
+  "isdeleted": false,
+  "name": "Religion, Peace and Conflict",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 2,
+  "order": -213,
+  "image": "/images/4b29881c080ebb901c31f468d1c59202.png",
+  "createdAt": {
+    "$date": "2021-09-14T20:57:12.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616d5953521f924182ae9d38"
+  },
+  "isdeleted": false,
+  "name": "Half-Lives",
+  "topic_id": {
+    "$oid": "6154928d521f924182ae9c96"
+  },
+  "level": 2,
+  "order": -134,
+  "image": "/images/54bd6899c7afff154cc584926639d86d.jpg",
+  "createdAt": {
+    "$date": "2021-10-18T11:24:03.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b884c02c13a37e3174096b"
+  },
+  "isdeleted": false,
+  "name": "Binomials and Quadratics",
+  "topic_id": {
+    "$oid": "61994fd0521f924182ae9db0"
+  },
+  "level": 2,
+  "order": 56,
+  "image": "/images/d8cbc0f2ea665bbad256f9cd7e9f1317.jpg",
+  "createdAt": {
+    "$date": "2021-12-14T11:49:20.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d585cb2c13a37e317409b2"
+  },
+  "isdeleted": false,
+  "name": "The Water Cycle",
+  "topic_id": {
+    "$oid": "60dda72127dbc37ef0be8e06"
+  },
+  "level": 1,
+  "order": 88,
+  "image": "/images/824695b51ec2b7c567479717eba77226.jpg",
+  "createdAt": {
+    "$date": "2022-01-05T11:49:31.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631c75ae2c13a37e31740a49"
+  },
+  "isdeleted": false,
+  "name": "Circle Theorems",
+  "topic_id": {
+    "$oid": "631bc1782c13a37e31740a41"
+  },
+  "level": 3,
+  "order": 103,
+  "image": "/images/358978b76a03df17341e499db1228d2a.jpg",
+  "createdAt": {
+    "$date": "2022-09-10T11:31:58.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6346ef35e35addbc2776f142"
+  },
+  "isdeleted": false,
+  "name": "Le Chatelier's Principle: Temperature",
+  "topic_id": {
+    "$oid": "60dda590dfd6220cf6dd2ea6"
+  },
+  "level": 3,
+  "order": 114,
+  "image": "/images/6a07a2beb363df7b045443bf2173fc6f.jpg",
+  "createdAt": {
+    "$date": "2022-10-12T16:45:41.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6357c484e35addbc2776f1b0"
+  },
+  "isdeleted": false,
+  "name": "Chromatography I",
+  "topic_id": {
+    "$oid": "60dda5c5dfd6220cf6dd2ea8"
+  },
+  "level": 1,
+  "order": 139,
+  "image": "/images/e31bad43ac821b7fd669a0359968904f.png",
+  "createdAt": {
+    "$date": "2022-10-25T11:12:04.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636853032aa7bc65f174d94b"
+  },
+  "isdeleted": false,
+  "name": "Moments, Levers and Gears",
+  "topic_id": {
+    "$oid": "6367d0cf2aa7bc65f174d940"
+  },
+  "level": 3,
+  "order": 163,
+  "image": "/images/2a2ea46e1e1a26ad89811b56ade8cc32.png",
+  "createdAt": {
+    "$date": "2022-11-07T00:36:19.880Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63775fea2aa7bc65f174d987"
+  },
+  "isdeleted": false,
+  "name": "Electromagnetic Spectrum II",
+  "topic_id": {
+    "$oid": "6367d0fd2aa7bc65f174d941"
+  },
+  "level": 2,
+  "order": 176,
+  "image": "/images/62d274e6543a60ba6fc5c98a38c7d197.png",
+  "createdAt": {
+    "$date": "2022-11-18T10:35:22.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637761782aa7bc65f174d98b"
+  },
+  "isdeleted": false,
+  "name": "Sound Waves",
+  "topic_id": {
+    "$oid": "6367d0fd2aa7bc65f174d941"
+  },
+  "level": 3,
+  "order": 172,
+  "image": "/images/cefa787e25c7ddd107c51a9fc4f8f782.png",
+  "createdAt": {
+    "$date": "2022-11-18T10:42:00.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637ba8652aa7bc65f174d9c3"
+  },
+  "isdeleted": false,
+  "name": "Electromagnetism I",
+  "topic_id": {
+    "$oid": "6367d1422aa7bc65f174d942"
+  },
+  "level": 1,
+  "order": 189,
+  "image": "/images/9e0c5772fb2a983569372b9ca7920b0f.jpg",
+  "createdAt": {
+    "$date": "2022-11-21T16:33:41.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637babe82aa7bc65f174d9c7"
+  },
+  "isdeleted": false,
+  "name": "Induced Potential",
+  "topic_id": {
+    "$oid": "6367d1422aa7bc65f174d942"
+  },
+  "level": 3,
+  "order": 184,
+  "image": "/images/761e7511e2ffec74cec5214fa85df072.jpg",
+  "createdAt": {
+    "$date": "2022-11-21T16:48:40.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6407af1a2aa7bc65f174da9d"
+  },
+  "isdeleted": false,
+  "name": "Social Class and Status",
+  "topic_id": {
+    "$oid": "64065d6d2aa7bc65f174da96"
+  },
+  "level": 2,
+  "order": 424,
+  "image": "/images/dc4ed992b6a9c4a930955de58eb5be53.png",
+  "createdAt": {
+    "$date": "2023-03-07T21:39:38.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6407af712aa7bc65f174da9f"
+  },
+  "isdeleted": false,
+  "name": "Philosophical and Psychological Analysis ",
+  "topic_id": {
+    "$oid": "64065d6d2aa7bc65f174da96"
+  },
+  "level": 3,
+  "order": 422,
+  "image": "/images/3790a8680cfde6c5108394d4a47dd32a.png",
+  "createdAt": {
+    "$date": "2023-03-07T21:41:05.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649971cd2aa7bc65f174db41"
+  },
+  "isdeleted": false,
+  "name": "Role of Women in Islam",
+  "topic_id": {
+    "$oid": "6491bd6a2aa7bc65f174db1a"
+  },
+  "level": 3,
+  "order": -209,
+  "image": "/images/0fc46ecaa3bf03e59bed188cd5a17a07.png",
+  "createdAt": {
+    "$date": "2023-06-26T11:09:01.433Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ccab61dfd6220cf6dd2e5a"
+  },
+  "isdeleted": false,
+  "name": "Stem cells",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 3,
+  "order": 1,
+  "image": "/images/86971672a1f1aa68f57ef85ce03f0e23.png",
+  "createdAt": {
+    "$date": "2021-06-18T14:19:13.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60d9dbeadfd6220cf6dd2e78"
+  },
+  "isdeleted": false,
+  "name": "Circulatory System I",
+  "topic_id": {
+    "$oid": "60c62375dfd6220cf6dd2e38"
+  },
+  "level": 1,
+  "order": 17,
+  "image": "/images/347c8fababc34542e66b8fb1c596f539.png",
+  "createdAt": {
+    "$date": "2021-06-28T14:25:46.772Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e32f7527dbc37ef0be8e23"
+  },
+  "isdeleted": true,
+  "name": "Developing Drugs",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 3,
+  "order": 21,
+  "image": "/images/50f33ce59130190dc01933508c583c84.png",
+  "createdAt": {
+    "$date": "2021-07-05T16:12:37.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61139d85521f924182ae9b10"
+  },
+  "isdeleted": false,
+  "name": "Metabolism",
+  "topic_id": {
+    "$oid": "60dda66ddfd6220cf6dd2eac"
+  },
+  "level": 3,
+  "order": 35,
+  "image": "/images/d0df932fcc5e2956f989c0de908f1774.png",
+  "createdAt": {
+    "$date": "2021-08-11T09:51:01.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611fc1ef521f924182ae9b3e"
+  },
+  "isdeleted": false,
+  "name": "Separating Mixtures II",
+  "topic_id": {
+    "$oid": "60d47aeedfd6220cf6dd2e6e"
+  },
+  "level": 2,
+  "order": -6,
+  "image": "/images/6697e54817ce36bfb8c8df520993d44a.png",
+  "createdAt": {
+    "$date": "2021-08-20T14:53:35.879Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6138925c521f924182ae9bb0"
+  },
+  "isdeleted": false,
+  "name": "Balanced Equations II",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 2,
+  "order": -24,
+  "image": "/images/0cbef47a41e2ee0df93af2536dcb78b3.jpg",
+  "createdAt": {
+    "$date": "2021-09-08T10:37:16.096Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613892c3521f924182ae9bb2"
+  },
+  "isdeleted": false,
+  "name": "Yields and Atom Economy",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 3,
+  "order": -26,
+  "image": "/images/fa1567396f0bbb9d3ada0075fc2d50af.jpg",
+  "createdAt": {
+    "$date": "2021-09-08T10:38:59.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613cbcc1521f924182ae9bda"
+  },
+  "isdeleted": false,
+  "name": "Christianity in Contemporary Society",
+  "topic_id": {
+    "$oid": "613cba2f521f924182ae9bd4"
+  },
+  "level": 2,
+  "order": -204,
+  "image": "/images/048a9f6b29fc9a30fa2aca366397467c.png",
+  "createdAt": {
+    "$date": "2021-09-11T14:27:13.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "614b3867521f924182ae9c4c"
+  },
+  "isdeleted": false,
+  "name": "Electrolysis I",
+  "topic_id": {
+    "$oid": "60db2c06dfd6220cf6dd2ea4"
+  },
+  "level": 2,
+  "order": -32,
+  "image": "/images/9f69028dec8410a406385a1b8e4aaab5.png",
+  "createdAt": {
+    "$date": "2021-09-22T14:06:31.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61519c12521f924182ae9c79"
+  },
+  "isdeleted": false,
+  "name": "Chemical and Fuel Cells",
+  "topic_id": {
+    "$oid": "60dda563dfd6220cf6dd2ea5"
+  },
+  "level": 3,
+  "order": -39,
+  "image": "/images/b5f649b4701ff5a38d636157860cf2ed.png",
+  "createdAt": {
+    "$date": "2021-09-27T10:25:22.105Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "615d80ec521f924182ae9cd4"
+  },
+  "isdeleted": false,
+  "name": "Mains Electricity",
+  "topic_id": {
+    "$oid": "615490af521f924182ae9c94"
+  },
+  "level": 1,
+  "order": -111,
+  "image": "/images/fe0fd589ce93ee3eeb85130243c57add.png",
+  "createdAt": {
+    "$date": "2021-10-06T10:56:44.792Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61657841521f924182ae9d0f"
+  },
+  "isdeleted": false,
+  "name": "Density",
+  "topic_id": {
+    "$oid": "61549189521f924182ae9c95"
+  },
+  "level": 1,
+  "order": -120,
+  "image": "/images/521826a0a73f6f02f0927347cbaefccf.jpg",
+  "createdAt": {
+    "$date": "2021-10-12T11:57:53.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "618bbb17521f924182ae9d77"
+  },
+  "isdeleted": false,
+  "name": "Factorization, HCF and LCM",
+  "topic_id": {
+    "$oid": "618bb7eb521f924182ae9d72"
+  },
+  "level": 2,
+  "order": 46,
+  "image": "/images/b9ae5e910a8cc804d7165ce56fa948fb.jpg",
+  "createdAt": {
+    "$date": "2021-11-10T12:29:11.726Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "618bbb60521f924182ae9d79"
+  },
+  "isdeleted": false,
+  "name": "Decimals",
+  "topic_id": {
+    "$oid": "618bb7eb521f924182ae9d72"
+  },
+  "level": 2,
+  "order": 44,
+  "image": "/images/d18d99e53793af83996a04db9eeb5cd0.jpg",
+  "createdAt": {
+    "$date": "2021-11-10T12:30:24.748Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b884272c13a37e3174096a"
+  },
+  "isdeleted": false,
+  "name": "Linear Sequences",
+  "topic_id": {
+    "$oid": "61994fd0521f924182ae9db0"
+  },
+  "level": 1,
+  "order": 57,
+  "image": "/images/3c69ea1f9452236e2b53836a9300f556.jpg",
+  "createdAt": {
+    "$date": "2021-12-14T11:46:47.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630cd1cd2c13a37e31740a13"
+  },
+  "isdeleted": false,
+  "name": "Rate of Change and Proportion Graphs",
+  "topic_id": {
+    "$oid": "630cb3a42c13a37e31740a11"
+  },
+  "level": 1,
+  "order": 99,
+  "image": "/images/88d1645433380a7e3a96e07e4745b13e.jpg",
+  "createdAt": {
+    "$date": "2022-08-29T14:48:45.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631c74d62c13a37e31740a44"
+  },
+  "isdeleted": false,
+  "name": "Area and Perimeter ",
+  "topic_id": {
+    "$oid": "631bc1782c13a37e31740a41"
+  },
+  "level": 1,
+  "order": 108,
+  "image": "/images/5c7ebbaa303a4ab3dcfbc1db2372f016.jpg",
+  "createdAt": {
+    "$date": "2022-09-10T11:28:22.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64011b442aa7bc65f174da61"
+  },
+  "isdeleted": false,
+  "name": "Irony and Dramatic Tension",
+  "topic_id": {
+    "$oid": "6401136c2aa7bc65f174da58"
+  },
+  "level": 3,
+  "order": 212,
+  "image": "/images/70b94e03aeb91f6d1591e737730f540c.jpg",
+  "createdAt": {
+    "$date": "2023-03-02T21:55:16.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64996e902aa7bc65f174db3f"
+  },
+  "isdeleted": false,
+  "name": "Islamic Ethics and Moral Teachings",
+  "topic_id": {
+    "$oid": "6491bd6a2aa7bc65f174db1a"
+  },
+  "level": 2,
+  "order": -207,
+  "image": "/images/a9b4ead4aa3891b5755916ac55434610.png",
+  "createdAt": {
+    "$date": "2023-06-26T10:55:12.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e3113f27dbc37ef0be8e21"
+  },
+  "isdeleted": false,
+  "name": "Fighting Disease: Vaccine II",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 3,
+  "order": 22,
+  "image": "/images/55af1982b1406a16df2ce044082f6d75.png",
+  "createdAt": {
+    "$date": "2021-07-05T14:03:43.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611a51be521f924182ae9b24"
+  },
+  "isdeleted": false,
+  "name": "Atoms, Elements and Compounds",
+  "topic_id": {
+    "$oid": "60d47aeedfd6220cf6dd2e6e"
+  },
+  "level": 1,
+  "order": -1,
+  "image": "/images/754eb3775b1c58b337dcf3435b35fb7a.png",
+  "createdAt": {
+    "$date": "2021-08-16T11:53:34.773Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611fc4cf521f924182ae9b40"
+  },
+  "isdeleted": false,
+  "name": "Transition Metals and Group 0",
+  "topic_id": {
+    "$oid": "60d47aeedfd6220cf6dd2e6e"
+  },
+  "level": 3,
+  "order": -8,
+  "image": "/images/fd9ebc1f8616e12768ceec3254a4e7a8.png",
+  "createdAt": {
+    "$date": "2021-08-20T15:05:51.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611fc4ea521f924182ae9b41"
+  },
+  "isdeleted": false,
+  "name": "Atomic Structure II",
+  "topic_id": {
+    "$oid": "60d47aeedfd6220cf6dd2e6e"
+  },
+  "level": 3,
+  "order": -9,
+  "image": "/images/637045a7241ef822d517ece61188d116.png",
+  "createdAt": {
+    "$date": "2021-08-20T15:06:18.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "612fcb38521f924182ae9b74"
+  },
+  "isdeleted": false,
+  "name": "Covalent Molecules II",
+  "topic_id": {
+    "$oid": "60db2a34dfd6220cf6dd2ea2"
+  },
+  "level": 3,
+  "order": -18,
+  "image": "/images/f8bb83dc58e60ff3ffed22b17b894e53.png",
+  "createdAt": {
+    "$date": "2021-09-01T18:49:28.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613891a9521f924182ae9bae"
+  },
+  "isdeleted": false,
+  "name": "Reacting Masses I",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 2,
+  "order": -24,
+  "image": "/images/19816709aff440cee6ad2f494b3cba60.jpg",
+  "createdAt": {
+    "$date": "2021-09-08T10:34:17.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613a7b97521f924182ae9bbd"
+  },
+  "isdeleted": true,
+  "name": "America",
+  "topic_id": {
+    "$oid": "613a7b34521f924182ae9bbc"
+  },
+  "level": 1,
+  "order": 0,
+  "image": "/images/5e5edef45a2aeb9ce34be47e8195c00c.png",
+  "createdAt": {
+    "$date": "2021-09-09T21:24:39.102Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "615d8192521f924182ae9cd7"
+  },
+  "isdeleted": false,
+  "name": "Current, Resistance and Voltage",
+  "topic_id": {
+    "$oid": "615490af521f924182ae9c94"
+  },
+  "level": 2,
+  "order": -114,
+  "image": "/images/8efc48151cf50467bdff18a35dc3d80b.png",
+  "createdAt": {
+    "$date": "2021-10-06T10:59:30.709Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "615d8249521f924182ae9cdb"
+  },
+  "isdeleted": false,
+  "name": "Static Electricity",
+  "topic_id": {
+    "$oid": "615490af521f924182ae9c94"
+  },
+  "level": 3,
+  "order": -118,
+  "image": "/images/57be3b7204678d43bce674a4ebfe8b68.png",
+  "createdAt": {
+    "$date": "2021-10-06T11:02:33.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "618bbab3521f924182ae9d75"
+  },
+  "isdeleted": false,
+  "name": "Place Values with Decimals and Large Numbers",
+  "topic_id": {
+    "$oid": "618bb7eb521f924182ae9d72"
+  },
+  "level": 1,
+  "order": 48,
+  "image": "/images/59a7cbc58a314a6329517394d6717e5c.jpg",
+  "createdAt": {
+    "$date": "2021-11-10T12:27:31.790Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "619ce64f521f924182ae9db1"
+  },
+  "isdeleted": false,
+  "name": "Algebraic Notations and Substituting Values",
+  "topic_id": {
+    "$oid": "61994fd0521f924182ae9db0"
+  },
+  "level": 1,
+  "order": 60,
+  "image": "/images/1399238712785159d2ddf15c18c6c659.jpg",
+  "createdAt": {
+    "$date": "2021-11-23T13:02:07.756Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61a8bdd0521f924182ae9dba"
+  },
+  "isdeleted": false,
+  "name": "The Human Nervous System",
+  "topic_id": {
+    "$oid": "60dda6d627dbc37ef0be8e04"
+  },
+  "level": 1,
+  "order": 69,
+  "image": "/images/d118f61c5096af7605e1e625a959b704.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:36:32.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61a8bea6521f924182ae9dbd"
+  },
+  "isdeleted": false,
+  "name": "Hormones in Human Reproduction",
+  "topic_id": {
+    "$oid": "60dda6d627dbc37ef0be8e04"
+  },
+  "level": 2,
+  "order": 66,
+  "image": "/images/a560bb3df952f1ae6545bed7516a621f.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:40:06.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b4c809521f924182ae9dfd"
+  },
+  "isdeleted": false,
+  "name": "The Understanding of Evolution",
+  "topic_id": {
+    "$oid": "60dda71027dbc37ef0be8e05"
+  },
+  "level": 3,
+  "order": 72,
+  "image": "/images/b6ee1a1743fe8a14a660da49f98688ba.png",
+  "createdAt": {
+    "$date": "2021-12-11T15:47:21.071Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b4c826521f924182ae9dfe"
+  },
+  "isdeleted": false,
+  "name": "DNA and Protein Synthesis",
+  "topic_id": {
+    "$oid": "60dda71027dbc37ef0be8e05"
+  },
+  "level": 3,
+  "order": 71,
+  "image": "/images/3c0f605962ece1c2f5c54ccb8d18dd9b.png",
+  "createdAt": {
+    "$date": "2021-12-11T15:47:50.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631c73ca2c13a37e31740a42"
+  },
+  "isdeleted": false,
+  "name": "Angles",
+  "topic_id": {
+    "$oid": "631bc1782c13a37e31740a41"
+  },
+  "level": 1,
+  "order": 110,
+  "image": "/images/4d1a3931b97c76a9a4fe90f33682f7c3.jpg",
+  "createdAt": {
+    "$date": "2022-09-10T11:23:54.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631c73f42c13a37e31740a43"
+  },
+  "isdeleted": false,
+  "name": "Circle and Sectors",
+  "topic_id": {
+    "$oid": "631bc1782c13a37e31740a41"
+  },
+  "level": 1,
+  "order": 109,
+  "image": "/images/586137f3d3658982533627edc9c89eeb.jpg",
+  "createdAt": {
+    "$date": "2022-09-10T11:24:36.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631c75552c13a37e31740a47"
+  },
+  "isdeleted": false,
+  "name": "Congruent Shapes and Transformations",
+  "topic_id": {
+    "$oid": "631bc1782c13a37e31740a41"
+  },
+  "level": 2,
+  "order": 105,
+  "image": "/images/868598db5d1470eac19dd95efbd848a7.jpg",
+  "createdAt": {
+    "$date": "2022-09-10T11:30:29.160Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6346ef0be35addbc2776f141"
+  },
+  "isdeleted": false,
+  "name": "Le Chatelier's Principle: Concentration",
+  "topic_id": {
+    "$oid": "60dda590dfd6220cf6dd2ea6"
+  },
+  "level": 3,
+  "order": 114,
+  "image": "/images/71f1fac7b6907e625af3d17cdeaa7d35.jpg",
+  "createdAt": {
+    "$date": "2022-10-12T16:44:59.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6357c551e35addbc2776f1b3"
+  },
+  "isdeleted": false,
+  "name": "Tests for Cations",
+  "topic_id": {
+    "$oid": "60dda5c5dfd6220cf6dd2ea8"
+  },
+  "level": 3,
+  "order": 136,
+  "image": "/images/a7a28de7b3c6f574b8fc777cf1c5adec.png",
+  "createdAt": {
+    "$date": "2022-10-25T11:15:29.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6361a1402aa7bc65f174d90b"
+  },
+  "isdeleted": false,
+  "name": "Alternative Method of Metal Extraction",
+  "topic_id": {
+    "$oid": "60dda605dfd6220cf6dd2eaa"
+  },
+  "level": 2,
+  "order": 156,
+  "image": "/images/a3d4e20dfae76074c2e2603b537c800f.png",
+  "createdAt": {
+    "$date": "2022-11-01T22:44:16.927Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636854482aa7bc65f174d94d"
+  },
+  "isdeleted": false,
+  "name": "Pressure in a Fluid",
+  "topic_id": {
+    "$oid": "6367d0cf2aa7bc65f174d940"
+  },
+  "level": 3,
+  "order": 161,
+  "image": "/images/b61e6888192203bf276864e60217e798.png",
+  "createdAt": {
+    "$date": "2022-11-07T00:41:44.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637baa4a2aa7bc65f174d9c5"
+  },
+  "isdeleted": false,
+  "name": "Electric Motors",
+  "topic_id": {
+    "$oid": "6367d1422aa7bc65f174d942"
+  },
+  "level": 2,
+  "order": 187,
+  "image": "/images/c3c216e32e2f82997f1965798a6ba292.jpg",
+  "createdAt": {
+    "$date": "2022-11-21T16:41:46.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fe1c032aa7bc65f174da22"
+  },
+  "isdeleted": false,
+  "name": "Supernatural Quotes",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 3,
+  "order": 204,
+  "image": "/images/36355dee29a67a170df5829290941886.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:21:39.246Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64011aa72aa7bc65f174da5e"
+  },
+  "isdeleted": false,
+  "name": "Social Class and Status",
+  "topic_id": {
+    "$oid": "6401136c2aa7bc65f174da58"
+  },
+  "level": 2,
+  "order": 215,
+  "image": "/images/f595e3a4c923eefcd98b0a289bd6b276.jpg",
+  "createdAt": {
+    "$date": "2023-03-02T21:52:39.633Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60cc80ffdfd6220cf6dd2e44"
+  },
+  "isdeleted": false,
+  "name": "Microscopy II",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 2,
+  "order": 5,
+  "image": "/images/24ad11e867a62ddffe7399c9ce6c313c.png",
+  "createdAt": {
+    "$date": "2021-06-18T11:18:23.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60d9e40cdfd6220cf6dd2e79"
+  },
+  "isdeleted": false,
+  "name": "Enzymes II",
+  "topic_id": {
+    "$oid": "60c62375dfd6220cf6dd2e38"
+  },
+  "level": 2,
+  "order": 16,
+  "image": "/images/7abc7b1a23cfc0e0686a18f5b9f88fdd.png",
+  "createdAt": {
+    "$date": "2021-06-28T15:00:28.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e331da27dbc37ef0be8e24"
+  },
+  "isdeleted": true,
+  "name": "Developing Drugs",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 3,
+  "order": 21,
+  "image": "/images/00ea211ee6d1ef8349c79316bb9a547e.png",
+  "createdAt": {
+    "$date": "2021-07-05T16:22:50.193Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "612fca51521f924182ae9b72"
+  },
+  "isdeleted": false,
+  "name": "Metallic Bonding",
+  "topic_id": {
+    "$oid": "60db2a34dfd6220cf6dd2ea2"
+  },
+  "level": 2,
+  "order": -16,
+  "image": "/images/992a183bb239cde841410374bb1813fc.png",
+  "createdAt": {
+    "$date": "2021-09-01T18:45:37.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "614b34ff521f924182ae9c49"
+  },
+  "isdeleted": false,
+  "name": "The Reactivity Series",
+  "topic_id": {
+    "$oid": "60db2c06dfd6220cf6dd2ea4"
+  },
+  "level": 1,
+  "order": -28,
+  "image": "/images/22bca6cc0476bc740186636275f2e3c6.png",
+  "createdAt": {
+    "$date": "2021-09-22T13:52:00.002Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61519b4b521f924182ae9c75"
+  },
+  "isdeleted": false,
+  "name": "Exothermic Reactions",
+  "topic_id": {
+    "$oid": "60dda563dfd6220cf6dd2ea5"
+  },
+  "level": 1,
+  "order": -35,
+  "image": "/images/2f127d5ff1f0a37673680d8e9a49ddc1.png",
+  "createdAt": {
+    "$date": "2021-09-27T10:22:03.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61519bd7521f924182ae9c78"
+  },
+  "isdeleted": false,
+  "name": "Bond Energies",
+  "topic_id": {
+    "$oid": "60dda563dfd6220cf6dd2ea5"
+  },
+  "level": 2,
+  "order": -38,
+  "image": "/images/cd5c59e8140788f6ce4e4735e4a5887c.png",
+  "createdAt": {
+    "$date": "2021-09-27T10:24:23.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6165786e521f924182ae9d10"
+  },
+  "isdeleted": false,
+  "name": "Changes of State",
+  "topic_id": {
+    "$oid": "61549189521f924182ae9c95"
+  },
+  "level": 1,
+  "order": -121,
+  "image": "/images/617b61eb515b3cb9282a4877b8fb6026.jpg",
+  "createdAt": {
+    "$date": "2021-10-12T11:58:38.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616578aa521f924182ae9d11"
+  },
+  "isdeleted": false,
+  "name": "Temperature Changes and Energy",
+  "topic_id": {
+    "$oid": "61549189521f924182ae9c95"
+  },
+  "level": 2,
+  "order": -122,
+  "image": "/images/b1b91c49a916618e865991b382b0a0c1.jpg",
+  "createdAt": {
+    "$date": "2021-10-12T11:59:38.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6165790d521f924182ae9d14"
+  },
+  "isdeleted": false,
+  "name": "Particle Model and Pressure II",
+  "topic_id": {
+    "$oid": "61549189521f924182ae9c95"
+  },
+  "level": 3,
+  "order": -125,
+  "image": "/images/d47f55b929585f9bbcf1f7efc7718eec.jpg",
+  "createdAt": {
+    "$date": "2021-10-12T12:01:17.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631c75822c13a37e31740a48"
+  },
+  "isdeleted": false,
+  "name": "Volume and Surface Area",
+  "topic_id": {
+    "$oid": "631bc1782c13a37e31740a41"
+  },
+  "level": 2,
+  "order": 104,
+  "image": "/images/56ad23f59dad6ae78a7fb432ed65ea5a.jpg",
+  "createdAt": {
+    "$date": "2022-09-10T11:31:14.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631c75d12c13a37e31740a4a"
+  },
+  "isdeleted": false,
+  "name": "Pythagoras Theorem",
+  "topic_id": {
+    "$oid": "631bc1782c13a37e31740a41"
+  },
+  "level": 3,
+  "order": 102,
+  "image": "/images/454c561490c59fd3bbdd1a7026cadc1d.jpg",
+  "createdAt": {
+    "$date": "2022-09-10T11:32:33.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634f2fe9e35addbc2776f17a"
+  },
+  "isdeleted": false,
+  "name": "Biochemistry",
+  "topic_id": {
+    "$oid": "60dda5a8dfd6220cf6dd2ea7"
+  },
+  "level": 3,
+  "order": 121,
+  "image": "/images/996c60b4c035e3b21f4d802f4902204e.jpg",
+  "createdAt": {
+    "$date": "2022-10-18T22:59:53.757Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6357c4a9e35addbc2776f1b1"
+  },
+  "isdeleted": false,
+  "name": "Tests for Gases",
+  "topic_id": {
+    "$oid": "60dda5c5dfd6220cf6dd2ea8"
+  },
+  "level": 1,
+  "order": 138,
+  "image": "/images/5dac4df8f1cd653d0c0e487b51ce3b36.png",
+  "createdAt": {
+    "$date": "2022-10-25T11:12:41.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6361a1bf2aa7bc65f174d90c"
+  },
+  "isdeleted": false,
+  "name": "Alloys and Corrosion",
+  "topic_id": {
+    "$oid": "60dda605dfd6220cf6dd2eaa"
+  },
+  "level": 3,
+  "order": 155,
+  "image": "/images/ec3232d394a125f91519d57955f7f059.png",
+  "createdAt": {
+    "$date": "2022-11-01T22:46:23.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63c03c072aa7bc65f174da0a"
+  },
+  "isdeleted": false,
+  "name": "Beliefs, Teachings & Practices Challenge",
+  "topic_id": {
+    "$oid": "613cba2f521f924182ae9bd4"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/7b83f9bbb5d62dafda1a32fbc8970c02.png",
+  "createdAt": {
+    "$date": "2023-01-12T16:57:43.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63dd985c2aa7bc65f174da0d"
+  },
+  "isdeleted": true,
+  "name": "Final Bubble",
+  "topic_id": {
+    "$oid": "60bfa3a6b514b88d8938057e"
+  },
+  "level": 4,
+  "order": 2000,
+  "image": "/images/798c6525505d72938f2f6dbc7d82949e.png",
+  "createdAt": {
+    "$date": "2023-02-03T23:27:24.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fe1aef2aa7bc65f174da1e"
+  },
+  "isdeleted": false,
+  "name": "3 Witches Quotes",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 207,
+  "image": "/images/faba8474ecc183bbba2f138f82e306c2.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:03.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fe1b592aa7bc65f174da20"
+  },
+  "isdeleted": false,
+  "name": "Lady & Macduff Quotes",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 2,
+  "order": 205,
+  "image": "/images/1840b3bce8ececff5f01426cbade8a5f.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:18:49.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61410cbf521f924182ae9c0d"
+  },
+  "isdeleted": false,
+  "name": "Religion, Crime and Punishment",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 2,
+  "order": -214,
+  "image": "/images/37828d60af22f376480df893c61179cc.png",
+  "createdAt": {
+    "$date": "2021-09-14T20:57:35.032Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6155da85521f924182ae9c9c"
+  },
+  "isdeleted": false,
+  "name": "Energy Changes in Systems",
+  "topic_id": {
+    "$oid": "61548d6b521f924182ae9c93"
+  },
+  "level": 2,
+  "order": -105,
+  "image": "/images/0b4c4e87d37a3fd89fdde58c1702275a.png",
+  "createdAt": {
+    "$date": "2021-09-30T15:40:53.967Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616d5982521f924182ae9d39"
+  },
+  "isdeleted": false,
+  "name": "Radioactive Contamination and Irradiation",
+  "topic_id": {
+    "$oid": "6154928d521f924182ae9c96"
+  },
+  "level": 2,
+  "order": -135,
+  "image": "/images/4123423bf080747eb0f7b219ff91bc7e.jpg",
+  "createdAt": {
+    "$date": "2021-10-18T11:24:50.592Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "618bbadc521f924182ae9d76"
+  },
+  "isdeleted": false,
+  "name": "Numbers in Standard Form",
+  "topic_id": {
+    "$oid": "618bb7eb521f924182ae9d72"
+  },
+  "level": 1,
+  "order": 47,
+  "image": "/images/1e5c60aa3dbc221fd08e0417bd1a0067.jpg",
+  "createdAt": {
+    "$date": "2021-11-10T12:28:12.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b883f62c13a37e31740969"
+  },
+  "isdeleted": false,
+  "name": "Linear Graphs",
+  "topic_id": {
+    "$oid": "61994fd0521f924182ae9db0"
+  },
+  "level": 1,
+  "order": 58,
+  "image": "/images/0347a45f7415f42425a7d6fb3380c6f1.jpg",
+  "createdAt": {
+    "$date": "2021-12-14T11:45:58.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d463d32c13a37e317409ac"
+  },
+  "isdeleted": false,
+  "name": "Abiotic and Biotic Factors",
+  "topic_id": {
+    "$oid": "60dda72127dbc37ef0be8e06"
+  },
+  "level": 2,
+  "order": 85,
+  "image": "/images/ce445bb64abe8a0a66c407dfe3c81398.jpg",
+  "createdAt": {
+    "$date": "2022-01-04T15:12:19.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630cd2b72c13a37e31740a15"
+  },
+  "isdeleted": false,
+  "name": "Growth and Decay",
+  "topic_id": {
+    "$oid": "630cb3a42c13a37e31740a11"
+  },
+  "level": 1,
+  "order": 97,
+  "image": "/images/ee04a06c03c1ce257971d0c6c75f3b58.jpg",
+  "createdAt": {
+    "$date": "2022-08-29T14:52:39.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630cd3992c13a37e31740a1b"
+  },
+  "isdeleted": false,
+  "name": "Density and Pressure",
+  "topic_id": {
+    "$oid": "630cb3a42c13a37e31740a11"
+  },
+  "level": 3,
+  "order": 92,
+  "image": "/images/0ab69c6afc002350c0b23a0de19821f7.jpg",
+  "createdAt": {
+    "$date": "2022-08-29T14:56:25.303Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6346ed30e35addbc2776f13d"
+  },
+  "isdeleted": false,
+  "name": "Reversible Reactions I",
+  "topic_id": {
+    "$oid": "60dda590dfd6220cf6dd2ea6"
+  },
+  "level": 1,
+  "order": 118,
+  "image": "/images/d2e246bce99cfd3f2e971ad0a76d7d75.jpg",
+  "createdAt": {
+    "$date": "2022-10-12T16:37:04.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6346eebbe35addbc2776f140"
+  },
+  "isdeleted": false,
+  "name": "Reversible Reactions II",
+  "topic_id": {
+    "$oid": "60dda590dfd6220cf6dd2ea6"
+  },
+  "level": 2,
+  "order": 115,
+  "image": "/images/aa691f8b971431e6fc63d447d7e23098.jpg",
+  "createdAt": {
+    "$date": "2022-10-12T16:43:39.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634f2cbce35addbc2776f171"
+  },
+  "isdeleted": false,
+  "name": "Crude Oil and Hydrocarbons",
+  "topic_id": {
+    "$oid": "60dda5a8dfd6220cf6dd2ea7"
+  },
+  "level": 1,
+  "order": 130,
+  "image": "/images/31412c2551dff94d0d54e09a241b77ef.jpg",
+  "createdAt": {
+    "$date": "2022-10-18T22:46:20.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634f2f99e35addbc2776f179"
+  },
+  "isdeleted": false,
+  "name": "Condensation Polymers",
+  "topic_id": {
+    "$oid": "60dda5a8dfd6220cf6dd2ea7"
+  },
+  "level": 3,
+  "order": 122,
+  "image": "/images/38a1a95f6c8bcffb6a1ac68dbc0d0395.jpg",
+  "createdAt": {
+    "$date": "2022-10-18T22:58:33.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63571b18e35addbc2776f1af"
+  },
+  "isdeleted": false,
+  "name": "Purity of Substances",
+  "topic_id": {
+    "$oid": "60dda5c5dfd6220cf6dd2ea8"
+  },
+  "level": 1,
+  "order": 140,
+  "image": "/images/04930990eb216a715334d1e45a891458.png",
+  "createdAt": {
+    "$date": "2022-10-24T23:09:12.047Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635e50172aa7bc65f174d8e5"
+  },
+  "isdeleted": false,
+  "name": "Earth's Atmosphere",
+  "topic_id": {
+    "$oid": "60dda5e7dfd6220cf6dd2ea9"
+  },
+  "level": 1,
+  "order": 150,
+  "image": "/images/4fac102b36473288d8410a36a6e3032f.jpg",
+  "createdAt": {
+    "$date": "2022-10-30T10:21:11.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6361a0d62aa7bc65f174d909"
+  },
+  "isdeleted": false,
+  "name": "Reducing the Use of Resources",
+  "topic_id": {
+    "$oid": "60dda605dfd6220cf6dd2eaa"
+  },
+  "level": 1,
+  "order": 158,
+  "image": "/images/e85ed226a3eeb530597ed9e4da983dfb.png",
+  "createdAt": {
+    "$date": "2022-11-01T22:42:30.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636852072aa7bc65f174d946"
+  },
+  "isdeleted": false,
+  "name": "Newton's Laws",
+  "topic_id": {
+    "$oid": "6367d0cf2aa7bc65f174d940"
+  },
+  "level": 1,
+  "order": 168,
+  "image": "/images/cd873074ffdd5f4e397a8b57bfaeb29f.png",
+  "createdAt": {
+    "$date": "2022-11-07T00:32:07.434Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6368527f2aa7bc65f174d948"
+  },
+  "isdeleted": false,
+  "name": "Forces and Their Interaction II",
+  "topic_id": {
+    "$oid": "6367d0cf2aa7bc65f174d940"
+  },
+  "level": 2,
+  "order": 166,
+  "image": "/images/319176279a0d9235b3d505a465bdd29f.png",
+  "createdAt": {
+    "$date": "2022-11-07T00:34:07.298Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637ba81a2aa7bc65f174d9c2"
+  },
+  "isdeleted": false,
+  "name": "The Magnetic Field",
+  "topic_id": {
+    "$oid": "6367d1422aa7bc65f174d942"
+  },
+  "level": 1,
+  "order": 190,
+  "image": "/images/854aa9daf2c831d9ac15729c714f8d44.jpg",
+  "createdAt": {
+    "$date": "2022-11-21T16:32:26.738Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64011a1f2aa7bc65f174da5c"
+  },
+  "isdeleted": false,
+  "name": "Symbolism and Imagery",
+  "topic_id": {
+    "$oid": "6401136c2aa7bc65f174da58"
+  },
+  "level": 2,
+  "order": 217,
+  "image": "/images/8e9f8a440c59c51e8bec702f302946a5.jpg",
+  "createdAt": {
+    "$date": "2023-03-02T21:50:23.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6407af422aa7bc65f174da9e"
+  },
+  "isdeleted": false,
+  "name": "The Duality of Human Nature",
+  "topic_id": {
+    "$oid": "64065d6d2aa7bc65f174da96"
+  },
+  "level": 3,
+  "order": 423,
+  "image": "/images/a04238633aae38cff5b4120500b6d5e5.png",
+  "createdAt": {
+    "$date": "2023-03-07T21:40:18.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6426fa2a2aa7bc65f174dadf"
+  },
+  "isdeleted": false,
+  "name": "A Christmas Carol: Language and Style",
+  "topic_id": {
+    "$oid": "641eeeb22aa7bc65f174dada"
+  },
+  "level": 2,
+  "order": 436,
+  "image": "/images/e3588e168222c5eacfe76a97306a65d8.png",
+  "createdAt": {
+    "$date": "2023-03-31T15:20:10.384Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e1dc2e27dbc37ef0be8e09"
+  },
+  "isdeleted": false,
+  "name": "Bacterial Diseases",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 1,
+  "order": 28,
+  "image": "/images/e36089b430f7582e2611d2ac46ddda70.png",
+  "createdAt": {
+    "$date": "2021-07-04T16:05:02.784Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61139d3d521f924182ae9b0e"
+  },
+  "isdeleted": false,
+  "name": "Photosynthesis III",
+  "topic_id": {
+    "$oid": "60dda66ddfd6220cf6dd2eac"
+  },
+  "level": 2,
+  "order": 36,
+  "image": "/images/5c172e3c45560eef03ecca55d22c4034.png",
+  "createdAt": {
+    "$date": "2021-08-11T09:49:49.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611a52bb521f924182ae9b27"
+  },
+  "isdeleted": false,
+  "name": "Atomic Structure I",
+  "topic_id": {
+    "$oid": "60d47aeedfd6220cf6dd2e6e"
+  },
+  "level": 2,
+  "order": -5,
+  "image": "/images/bbe67107fa1f1b6eb89a605cd78d66db.png",
+  "createdAt": {
+    "$date": "2021-08-16T11:57:47.517Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611fc48c521f924182ae9b3f"
+  },
+  "isdeleted": false,
+  "name": "Group 1 and Group 7",
+  "topic_id": {
+    "$oid": "60d47aeedfd6220cf6dd2e6e"
+  },
+  "level": 2,
+  "order": -7,
+  "image": "/images/2ff30256310e366ae82b3ae54648945e.png",
+  "createdAt": {
+    "$date": "2021-08-20T15:04:44.405Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "612fca2b521f924182ae9b71"
+  },
+  "isdeleted": false,
+  "name": "Covalent Molecules I",
+  "topic_id": {
+    "$oid": "60db2a34dfd6220cf6dd2ea2"
+  },
+  "level": 2,
+  "order": -15,
+  "image": "/images/d4c9d0ec54ee42aac5fbdf86a4d447ed.png",
+  "createdAt": {
+    "$date": "2021-09-01T18:44:59.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613cbc80521f924182ae9bd9"
+  },
+  "isdeleted": false,
+  "name": "Ethical and Moral Issues",
+  "topic_id": {
+    "$oid": "613cba2f521f924182ae9bd4"
+  },
+  "level": 1,
+  "order": -203,
+  "image": "/images/ce2f5c5e1c7d9a5027cc01a652ee07de.png",
+  "createdAt": {
+    "$date": "2021-09-11T14:26:08.511Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613cbd55521f924182ae9bdc"
+  },
+  "isdeleted": true,
+  "name": "Sikhism",
+  "topic_id": {
+    "$oid": "613cba2f521f924182ae9bd4"
+  },
+  "level": 2,
+  "order": -206,
+  "image": "/images/8c6e09b73371f3a5f8415045444d4457.png",
+  "createdAt": {
+    "$date": "2021-09-11T14:29:41.542Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "615d81f3521f924182ae9cd9"
+  },
+  "isdeleted": false,
+  "name": "Series and Parallel Circuits",
+  "topic_id": {
+    "$oid": "615490af521f924182ae9c94"
+  },
+  "level": 2,
+  "order": -116,
+  "image": "/images/c3456266304bf43ad2469ff11db7cf82.png",
+  "createdAt": {
+    "$date": "2021-10-06T11:01:07.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d45fd22c13a37e317409a9"
+  },
+  "isdeleted": false,
+  "name": "Food Production",
+  "topic_id": {
+    "$oid": "60dda72127dbc37ef0be8e06"
+  },
+  "level": 3,
+  "order": 82,
+  "image": "/images/0358b772f985896c2acfe9f2f45e6bbd.jpg",
+  "createdAt": {
+    "$date": "2022-01-04T14:55:14.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d5849b2c13a37e317409b0"
+  },
+  "isdeleted": false,
+  "name": "Ecosystems",
+  "topic_id": {
+    "$oid": "60dda72127dbc37ef0be8e06"
+  },
+  "level": 1,
+  "order": 90,
+  "image": "/images/6e325d06c2d85dc5483f53f4a8595b3b.jpg",
+  "createdAt": {
+    "$date": "2022-01-05T11:44:27.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6346d123e35addbc2776f13c"
+  },
+  "isdeleted": false,
+  "name": "Rate of Reaction I",
+  "topic_id": {
+    "$oid": "60dda590dfd6220cf6dd2ea6"
+  },
+  "level": 1,
+  "order": 119,
+  "image": "/images/eabacf1a02e9693b8b45dbf7568197c2.jpg",
+  "createdAt": {
+    "$date": "2022-10-12T14:37:23.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634f2f4ce35addbc2776f177"
+  },
+  "isdeleted": false,
+  "name": "Alcohols and Carboxylic Acids",
+  "topic_id": {
+    "$oid": "60dda5a8dfd6220cf6dd2ea7"
+  },
+  "level": 3,
+  "order": 124,
+  "image": "/images/ea9d92f3c4a764133b32cddec54a104c.jpg",
+  "createdAt": {
+    "$date": "2022-10-18T22:57:16.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63619fd62aa7bc65f174d908"
+  },
+  "isdeleted": false,
+  "name": "Life Cycle Assessment",
+  "topic_id": {
+    "$oid": "60dda605dfd6220cf6dd2eaa"
+  },
+  "level": 1,
+  "order": 159,
+  "image": "/images/a4b1335f49febf10e7a8f5e37db9534a.png",
+  "createdAt": {
+    "$date": "2022-11-01T22:38:14.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6361a1e62aa7bc65f174d90d"
+  },
+  "isdeleted": false,
+  "name": "Ceramics, Polymers and Composites",
+  "topic_id": {
+    "$oid": "60dda605dfd6220cf6dd2eaa"
+  },
+  "level": 3,
+  "order": 154,
+  "image": "/images/4bf22e94bf7d2f41c31d22b0ae6c911e.png",
+  "createdAt": {
+    "$date": "2022-11-01T22:47:02.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636802372aa7bc65f174d944"
+  },
+  "isdeleted": false,
+  "name": "Forces and Their Interaction I",
+  "topic_id": {
+    "$oid": "6367d0cf2aa7bc65f174d940"
+  },
+  "level": 1,
+  "order": 170,
+  "image": "/images/7090cebcf68a603a99a3380c0ee1008d.png",
+  "createdAt": {
+    "$date": "2022-11-06T18:51:35.635Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637761582aa7bc65f174d98a"
+  },
+  "isdeleted": false,
+  "name": "Lenses",
+  "topic_id": {
+    "$oid": "6367d0fd2aa7bc65f174d941"
+  },
+  "level": 3,
+  "order": 173,
+  "image": "/images/ffae7a6a9033077e6426d7140b5ba861.png",
+  "createdAt": {
+    "$date": "2022-11-18T10:41:28.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6388b1072aa7bc65f174d9ed"
+  },
+  "isdeleted": false,
+  "name": "The Solar System",
+  "topic_id": {
+    "$oid": "6367d16f2aa7bc65f174d943"
+  },
+  "level": 1,
+  "order": 200,
+  "image": "/images/863746c6fc5cfda8b230bfd0bd61c07c.jpg",
+  "createdAt": {
+    "$date": "2022-12-01T13:49:59.145Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63e145a82aa7bc65f174da11"
+  },
+  "isdeleted": false,
+  "name": "Thematic Studies Challenge",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64011b6b2aa7bc65f174da62"
+  },
+  "isdeleted": false,
+  "name": "Character Development and Ambiguity",
+  "topic_id": {
+    "$oid": "6401136c2aa7bc65f174da58"
+  },
+  "level": 3,
+  "order": 211,
+  "image": "/images/f66de57fa446343b5d235a35478d7b07.jpg",
+  "createdAt": {
+    "$date": "2023-03-02T21:55:55.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6407ae692aa7bc65f174da98"
+  },
+  "isdeleted": false,
+  "name": "Setting and Historical Context",
+  "topic_id": {
+    "$oid": "64065d6d2aa7bc65f174da96"
+  },
+  "level": 1,
+  "order": 429,
+  "image": "/images/e2d81ffb36f34a9a13f83a3b6156964c.png",
+  "createdAt": {
+    "$date": "2023-03-07T21:36:41.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649971a92aa7bc65f174db40"
+  },
+  "isdeleted": false,
+  "name": "Islamic Law and Jurisprudence",
+  "topic_id": {
+    "$oid": "6491bd6a2aa7bc65f174db1a"
+  },
+  "level": 2,
+  "order": -208,
+  "image": "/images/169dda5735e9690a75bc45f7dba4642e.png",
+  "createdAt": {
+    "$date": "2023-06-26T11:08:25.263Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60cc80e5dfd6220cf6dd2e43"
+  },
+  "isdeleted": false,
+  "name": "Exchanging Substances",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 2,
+  "order": 6,
+  "image": "/images/ce57d58839fda05ffca42132ee44f96a.png",
+  "createdAt": {
+    "$date": "2021-06-18T11:17:57.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60da465ddfd6220cf6dd2e88"
+  },
+  "isdeleted": false,
+  "name": "Circulatory System II",
+  "topic_id": {
+    "$oid": "60c62375dfd6220cf6dd2e38"
+  },
+  "level": 2,
+  "order": 15,
+  "image": "/images/636006bb349824ee69dd405947ede1ad.png",
+  "createdAt": {
+    "$date": "2021-06-28T21:59:57.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60cd12d2dfd6220cf6dd2e6b"
+  },
+  "isdeleted": false,
+  "name": "Cell Organisation",
+  "topic_id": {
+    "$oid": "60c62375dfd6220cf6dd2e38"
+  },
+  "level": 1,
+  "order": 20,
+  "image": "/images/a479410827907f508f32bca2c5e5de58.png",
+  "createdAt": {
+    "$date": "2021-06-18T21:40:34.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "612fcb13521f924182ae9b73"
+  },
+  "isdeleted": false,
+  "name": "Metallic Structures and Alloys",
+  "topic_id": {
+    "$oid": "60db2a34dfd6220cf6dd2ea2"
+  },
+  "level": 3,
+  "order": -17,
+  "image": "/images/e80853a633b4b06ef1344d7a301e4cf9.png",
+  "createdAt": {
+    "$date": "2021-09-01T18:48:51.514Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6138908b521f924182ae9bac"
+  },
+  "isdeleted": false,
+  "name": "Balanced Equations I",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 1,
+  "order": -21,
+  "image": "/images/8abb7a387487a581072925c2e22d888f.jpg",
+  "createdAt": {
+    "$date": "2021-09-08T10:29:31.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61410c94521f924182ae9c0b"
+  },
+  "isdeleted": false,
+  "name": "The Existence of God and Revelation",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 1,
+  "order": -212,
+  "image": "/images/de89c7556127758c6cd5e64685c92a55.png",
+  "createdAt": {
+    "$date": "2021-09-14T20:56:52.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61410cd5521f924182ae9c0e"
+  },
+  "isdeleted": false,
+  "name": "Religion, Human Rights and Social Justice",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 2,
+  "order": -215,
+  "image": "/images/4e14f66540b2e9b4a9efa470ed85f09b.png",
+  "createdAt": {
+    "$date": "2021-09-14T20:57:57.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "614b380c521f924182ae9c4b"
+  },
+  "isdeleted": false,
+  "name": "Reaction of Acids",
+  "topic_id": {
+    "$oid": "60db2c06dfd6220cf6dd2ea4"
+  },
+  "level": 2,
+  "order": -31,
+  "image": "/images/1f94c48167dbfe744875a33bcbfb41dc.png",
+  "createdAt": {
+    "$date": "2021-09-22T14:05:00.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "615d815b521f924182ae9cd6"
+  },
+  "isdeleted": false,
+  "name": "Electrical Charge and Current",
+  "topic_id": {
+    "$oid": "615490af521f924182ae9c94"
+  },
+  "level": 1,
+  "order": -113,
+  "image": "/images/1081519110349601187817ad66347bc6.png",
+  "createdAt": {
+    "$date": "2021-10-06T10:58:35.705Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d583592c13a37e317409ae"
+  },
+  "isdeleted": false,
+  "name": "Fieldwork Techniques",
+  "topic_id": {
+    "$oid": "60dda72127dbc37ef0be8e06"
+  },
+  "level": 2,
+  "order": 84,
+  "image": "/images/668360d2d8845eb9bbb350cfb05c38d9.jpg",
+  "createdAt": {
+    "$date": "2022-01-05T11:39:05.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d585e32c13a37e317409b3"
+  },
+  "isdeleted": false,
+  "name": "The Carbon Cycle",
+  "topic_id": {
+    "$oid": "60dda72127dbc37ef0be8e06"
+  },
+  "level": 1,
+  "order": 87,
+  "image": "/images/f3a55b0922cd2d9203a336c8c0205554.jpg",
+  "createdAt": {
+    "$date": "2022-01-05T11:49:55.350Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6346ab60e35addbc2776f13b"
+  },
+  "isdeleted": false,
+  "name": "The Collision Theory",
+  "topic_id": {
+    "$oid": "60dda590dfd6220cf6dd2ea6"
+  },
+  "level": 1,
+  "order": 120,
+  "image": "/images/a0229d9361c8a97eb2fb2f60d6029d09.jpg",
+  "createdAt": {
+    "$date": "2022-10-12T11:56:16.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6346edf9e35addbc2776f13e"
+  },
+  "isdeleted": false,
+  "name": "Catalysts",
+  "topic_id": {
+    "$oid": "60dda590dfd6220cf6dd2ea6"
+  },
+  "level": 1,
+  "order": 117,
+  "image": "/images/890ec549210b4d86e453fb29b4e5391e.jpg",
+  "createdAt": {
+    "$date": "2022-10-12T16:40:25.164Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635e50902aa7bc65f174d8e6"
+  },
+  "isdeleted": false,
+  "name": "Evolution of the Atmosphere",
+  "topic_id": {
+    "$oid": "60dda5e7dfd6220cf6dd2ea9"
+  },
+  "level": 1,
+  "order": 149,
+  "image": "/images/beba64e364f82dde416ac0a200dff831.jpg",
+  "createdAt": {
+    "$date": "2022-10-30T10:23:12.223Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635e50e82aa7bc65f174d8e7"
+  },
+  "isdeleted": false,
+  "name": "Global Climate Change",
+  "topic_id": {
+    "$oid": "60dda5e7dfd6220cf6dd2ea9"
+  },
+  "level": 1,
+  "order": 148,
+  "image": "/images/d83130d20a3155e6b95be7b09ce50e5d.jpg",
+  "createdAt": {
+    "$date": "2022-10-30T10:24:40.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635e51542aa7bc65f174d8e9"
+  },
+  "isdeleted": false,
+  "name": "Atmospheric Pollution",
+  "topic_id": {
+    "$oid": "60dda5e7dfd6220cf6dd2ea9"
+  },
+  "level": 2,
+  "order": 146,
+  "image": "/images/228fcd9fa3b1396cfe462db8ac0a910d.jpg",
+  "createdAt": {
+    "$date": "2022-10-30T10:26:28.740Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637ba8892aa7bc65f174d9c4"
+  },
+  "isdeleted": false,
+  "name": "Electromagnetism II",
+  "topic_id": {
+    "$oid": "6367d1422aa7bc65f174d942"
+  },
+  "level": 2,
+  "order": 188,
+  "image": "/images/fba6a8c5f96dba20b209a812034eed8f.jpg",
+  "createdAt": {
+    "$date": "2022-11-21T16:34:17.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fe1bc52aa7bc65f174da21"
+  },
+  "isdeleted": false,
+  "name": "Ambition Quotes",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 2,
+  "order": 205,
+  "image": "/images/bd379551e871c5f5e7effbe695a515cd.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:20:37.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6401185d2aa7bc65f174da59"
+  },
+  "isdeleted": false,
+  "name": "Plot Summary",
+  "topic_id": {
+    "$oid": "6401136c2aa7bc65f174da58"
+  },
+  "level": 1,
+  "order": 220,
+  "image": "/images/831f27657be775fbef53583d735bb467.jpg",
+  "createdAt": {
+    "$date": "2023-03-02T21:42:53.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611fc507521f924182ae9b42"
+  },
+  "isdeleted": false,
+  "name": "Chemical Equations",
+  "topic_id": {
+    "$oid": "60d47aeedfd6220cf6dd2e6e"
+  },
+  "level": 3,
+  "order": -10,
+  "image": "/images/30242fbd4af72af5f12ccf6c09895e2e.png",
+  "createdAt": {
+    "$date": "2021-08-20T15:06:47.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e1dc0827dbc37ef0be8e08"
+  },
+  "isdeleted": false,
+  "name": "Viral Diseases",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 1,
+  "order": 29,
+  "image": "/images/647de558092c973aa1f4fdd8148d075c.png",
+  "createdAt": {
+    "$date": "2021-07-04T16:04:24.182Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60c61fefdfd6220cf6dd2e35"
+  },
+  "isdeleted": false,
+  "name": "Diffusion",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 9,
+  "image": "/images/60421d85f731ec01f47e12a286d0cb10.png",
+  "createdAt": {
+    "$date": "2021-06-13T15:10:39.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "614b3212521f924182ae9c48"
+  },
+  "isdeleted": false,
+  "name": "The pH Scale",
+  "topic_id": {
+    "$oid": "60db2c06dfd6220cf6dd2ea4"
+  },
+  "level": 1,
+  "order": -30,
+  "image": "/images/fe66f7c2abb10cba2f57e910d3b8627d.png",
+  "createdAt": {
+    "$date": "2021-09-22T13:39:30.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6155d8ec521f924182ae9c99"
+  },
+  "isdeleted": false,
+  "name": "Energy Resources",
+  "topic_id": {
+    "$oid": "61548d6b521f924182ae9c93"
+  },
+  "level": 1,
+  "order": -101,
+  "image": "/images/99c2b5ae52fb808ad492d8e3a5bbb193.png",
+  "createdAt": {
+    "$date": "2021-09-30T15:34:04.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "615d81d4521f924182ae9cd8"
+  },
+  "isdeleted": false,
+  "name": "Electrical Energy",
+  "topic_id": {
+    "$oid": "615490af521f924182ae9c94"
+  },
+  "level": 2,
+  "order": -115,
+  "image": "/images/ca252b22abd73c92e3215f1eff490fb7.png",
+  "createdAt": {
+    "$date": "2021-10-06T11:00:36.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b885392c13a37e3174096d"
+  },
+  "isdeleted": false,
+  "name": "Linear Inequalities and Quadratic Equations",
+  "topic_id": {
+    "$oid": "61994fd0521f924182ae9db0"
+  },
+  "level": 2,
+  "order": 54,
+  "image": "/images/3c78071d226a3f4151e8b6283f98bfc6.jpg",
+  "createdAt": {
+    "$date": "2021-12-14T11:51:21.916Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630cd1902c13a37e31740a12"
+  },
+  "isdeleted": false,
+  "name": "Simplification of Ratios and Proportion",
+  "topic_id": {
+    "$oid": "630cb3a42c13a37e31740a11"
+  },
+  "level": 1,
+  "order": 100,
+  "image": "/images/2a3cb2a8028807e1230af03434029480.jpg",
+  "createdAt": {
+    "$date": "2022-08-29T14:47:44.553Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631c75252c13a37e31740a46"
+  },
+  "isdeleted": false,
+  "name": "Rotational and Line Symmetry",
+  "topic_id": {
+    "$oid": "631bc1782c13a37e31740a41"
+  },
+  "level": 2,
+  "order": 106,
+  "image": "/images/f7445aa19332d7b68c3a63c95ec92728.jpg",
+  "createdAt": {
+    "$date": "2022-09-10T11:29:41.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634f2e80e35addbc2776f173"
+  },
+  "isdeleted": false,
+  "name": "Alkanes",
+  "topic_id": {
+    "$oid": "60dda5a8dfd6220cf6dd2ea7"
+  },
+  "level": 1,
+  "order": 128,
+  "image": "/images/bc321cfc2af742d8a1919f6e3c1f495f.jpg",
+  "createdAt": {
+    "$date": "2022-10-18T22:53:52.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634f2ee5e35addbc2776f175"
+  },
+  "isdeleted": false,
+  "name": "Cracking",
+  "topic_id": {
+    "$oid": "60dda5a8dfd6220cf6dd2ea7"
+  },
+  "level": 2,
+  "order": 126,
+  "image": "/images/b51435aaad1c58c254c8e885990eb8f5.jpg",
+  "createdAt": {
+    "$date": "2022-10-18T22:55:33.504Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63775f6f2aa7bc65f174d985"
+  },
+  "isdeleted": false,
+  "name": "Electromagnetic Spectrum I",
+  "topic_id": {
+    "$oid": "6367d0fd2aa7bc65f174d941"
+  },
+  "level": 1,
+  "order": 178,
+  "image": "/images/556960d7801e03bea28c60aaeebc9ca5.png",
+  "createdAt": {
+    "$date": "2022-11-18T10:33:19.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "649971e42aa7bc65f174db42"
+  },
+  "isdeleted": false,
+  "name": "Islam and Contemporary Issues",
+  "topic_id": {
+    "$oid": "6491bd6a2aa7bc65f174db1a"
+  },
+  "level": 3,
+  "order": -210,
+  "image": "/images/3461089191d48fa18f03c06e4f869fd5.png",
+  "createdAt": {
+    "$date": "2023-06-26T11:09:24.566Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60bfe02231bab3d9bd0c4cbd"
+  },
+  "isdeleted": true,
+  "name": "Cells (Test)",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613891d7521f924182ae9baf"
+  },
+  "isdeleted": false,
+  "name": "Moles",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 2,
+  "order": -23,
+  "image": "/images/e99e36ab58bca834fcf99ba33f6eb00c.jpg",
+  "createdAt": {
+    "$date": "2021-09-08T10:35:03.578Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "618bbb93521f924182ae9d7a"
+  },
+  "isdeleted": false,
+  "name": "Percentages",
+  "topic_id": {
+    "$oid": "618bb7eb521f924182ae9d72"
+  },
+  "level": 3,
+  "order": 43,
+  "image": "/images/6247591cbf6e474f4388bfa255223cc8.jpg",
+  "createdAt": {
+    "$date": "2021-11-10T12:31:15.563Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61a8c0f0521f924182ae9dc2"
+  },
+  "isdeleted": false,
+  "name": "Plant Hormones",
+  "topic_id": {
+    "$oid": "60dda6d627dbc37ef0be8e04"
+  },
+  "level": 3,
+  "order": 62,
+  "image": "/images/11840f7e0de27e2252df5131eac2b80f.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:49:52.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630cd2932c13a37e31740a14"
+  },
+  "isdeleted": false,
+  "name": "Compound Measures",
+  "topic_id": {
+    "$oid": "630cb3a42c13a37e31740a11"
+  },
+  "level": 1,
+  "order": 98,
+  "image": "/images/67a745f99ec5938d19e15e3321760202.jpg",
+  "createdAt": {
+    "$date": "2022-08-29T14:52:03.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630cd3722c13a37e31740a1a"
+  },
+  "isdeleted": false,
+  "name": "Flow Rates",
+  "topic_id": {
+    "$oid": "630cb3a42c13a37e31740a11"
+  },
+  "level": 3,
+  "order": 93,
+  "image": "/images/fcccd03896204e837a7e22acd9a53a38.jpg",
+  "createdAt": {
+    "$date": "2022-08-29T14:55:46.299Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6357c4c9e35addbc2776f1b2"
+  },
+  "isdeleted": false,
+  "name": "Chromatography II",
+  "topic_id": {
+    "$oid": "60dda5c5dfd6220cf6dd2ea8"
+  },
+  "level": 2,
+  "order": 137,
+  "image": "/images/817fcc0bb2075c7519208e97cac49cb1.png",
+  "createdAt": {
+    "$date": "2022-10-25T11:13:13.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6357c594e35addbc2776f1b5"
+  },
+  "isdeleted": false,
+  "name": "Flame Emission Spectroscopy",
+  "topic_id": {
+    "$oid": "60dda5c5dfd6220cf6dd2ea8"
+  },
+  "level": 3,
+  "order": 134,
+  "image": "/images/d7369b59c8405602deb97b8d14106fa0.png",
+  "createdAt": {
+    "$date": "2022-10-25T11:16:36.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635e51162aa7bc65f174d8e8"
+  },
+  "isdeleted": false,
+  "name": "Carbon Footprint",
+  "topic_id": {
+    "$oid": "60dda5e7dfd6220cf6dd2ea9"
+  },
+  "level": 2,
+  "order": 147,
+  "image": "/images/e67d2e23bd41ce38c66aefb6fb0f09c9.jpg",
+  "createdAt": {
+    "$date": "2022-10-30T10:25:26.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63775f3d2aa7bc65f174d984"
+  },
+  "isdeleted": false,
+  "name": "Wave Equations",
+  "topic_id": {
+    "$oid": "6367d0fd2aa7bc65f174d941"
+  },
+  "level": 1,
+  "order": 179,
+  "image": "/images/c1f804a43b99db9f2a9698798b46aa77.png",
+  "createdAt": {
+    "$date": "2022-11-18T10:32:29.271Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637bac122aa7bc65f174d9c8"
+  },
+  "isdeleted": false,
+  "name": "Transformers",
+  "topic_id": {
+    "$oid": "6367d1422aa7bc65f174d942"
+  },
+  "level": 3,
+  "order": 183,
+  "image": "/images/ea3127756133449251becac7ab38f323.jpg",
+  "createdAt": {
+    "$date": "2022-11-21T16:49:22.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fe1a722aa7bc65f174da1d"
+  },
+  "isdeleted": false,
+  "name": "Lady Macbeth Quotes",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 208,
+  "image": "/images/154d478f062c4986815f4a9a9d081486.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:14:58.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64011aec2aa7bc65f174da5f"
+  },
+  "isdeleted": false,
+  "name": "Responsibility and Accountability",
+  "topic_id": {
+    "$oid": "6401136c2aa7bc65f174da58"
+  },
+  "level": 2,
+  "order": 214,
+  "image": "/images/7467d93f950bcac56953a2688fc39d42.jpg",
+  "createdAt": {
+    "$date": "2023-03-02T21:53:48.931Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641f24da2aa7bc65f174dade"
+  },
+  "isdeleted": false,
+  "name": "Characterisation and Narrative Point of View",
+  "topic_id": {
+    "$oid": "641eeeb22aa7bc65f174dada"
+  },
+  "level": 2,
+  "order": 437,
+  "image": "/images/7c295deadf94e6f54741fc38141df386.png",
+  "createdAt": {
+    "$date": "2023-03-25T16:44:10.247Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6426fad22aa7bc65f174dae3"
+  },
+  "isdeleted": false,
+  "name": "Analysis of the Supernatural Elements",
+  "topic_id": {
+    "$oid": "641eeeb22aa7bc65f174dada"
+  },
+  "level": 3,
+  "order": 432,
+  "image": "/images/b1ee754fb212b5474f82397e405a9ac1.png",
+  "createdAt": {
+    "$date": "2023-03-31T15:22:58.444Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e310ab27dbc37ef0be8e1d"
+  },
+  "isdeleted": false,
+  "name": "Fighting Disease",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 2,
+  "order": 26,
+  "image": "/images/76c1c639b08d540b0cbcf59ff77b4045.png",
+  "createdAt": {
+    "$date": "2021-07-05T14:01:15.462Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e3112127dbc37ef0be8e20"
+  },
+  "isdeleted": false,
+  "name": "Fighting Disease: Drugs",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 3,
+  "order": 23,
+  "image": "/images/79949b4950da18d36cfd4f2e3dfad8eb.png",
+  "createdAt": {
+    "$date": "2021-07-05T14:03:13.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60f5c6e2521f924182ae9afd"
+  },
+  "isdeleted": false,
+  "name": "Photosynthesis I",
+  "topic_id": {
+    "$oid": "60dda66ddfd6220cf6dd2eac"
+  },
+  "level": 1,
+  "order": 40,
+  "image": "/images/774c64b01cbdcfce47d0569e275c5a6a.png",
+  "createdAt": {
+    "$date": "2021-07-19T18:39:30.865Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "612fc950521f924182ae9b6e"
+  },
+  "isdeleted": false,
+  "name": "Ionic Bonding",
+  "topic_id": {
+    "$oid": "60db2a34dfd6220cf6dd2ea2"
+  },
+  "level": 1,
+  "order": -12,
+  "image": "/images/4e5c039bde2bd0d296cf0c275ba6afa0.png",
+  "createdAt": {
+    "$date": "2021-09-01T18:41:20.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "612fc9d5521f924182ae9b6f"
+  },
+  "isdeleted": false,
+  "name": "Covalent Bonding",
+  "topic_id": {
+    "$oid": "60db2a34dfd6220cf6dd2ea2"
+  },
+  "level": 1,
+  "order": -13,
+  "image": "/images/cfbcaabaca36fe42bc5acfbe86b1e17b.png",
+  "createdAt": {
+    "$date": "2021-09-01T18:43:33.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61389344521f924182ae9bb3"
+  },
+  "isdeleted": false,
+  "name": "Calculating Volumes",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 3,
+  "order": -27,
+  "image": "/images/0e27e66a4efc3f06d69df3c0533e5d7a.jpg",
+  "createdAt": {
+    "$date": "2021-09-08T10:41:08.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613cbbe6521f924182ae9bd7"
+  },
+  "isdeleted": false,
+  "name": "Practices and Worship",
+  "topic_id": {
+    "$oid": "613cba2f521f924182ae9bd4"
+  },
+  "level": 1,
+  "order": -201,
+  "image": "/images/a61f20a7e61ab6b6cb3ffd699d3b45e1.png",
+  "createdAt": {
+    "$date": "2021-09-11T14:23:34.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613cbd13521f924182ae9bdb"
+  },
+  "isdeleted": true,
+  "name": "Judaism",
+  "topic_id": {
+    "$oid": "613cba2f521f924182ae9bd4"
+  },
+  "level": 2,
+  "order": -205,
+  "image": "/images/d9ed5763ff64690cc770661a760996b1.png",
+  "createdAt": {
+    "$date": "2021-09-11T14:28:35.391Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6155d539521f924182ae9c97"
+  },
+  "isdeleted": false,
+  "name": "Energy Stores and Systems",
+  "topic_id": {
+    "$oid": "61548d6b521f924182ae9c93"
+  },
+  "level": 1,
+  "order": -100,
+  "image": "/images/740b93e1f8350dc40f3fb5802b65cfaa.png",
+  "createdAt": {
+    "$date": "2021-09-30T15:18:17.776Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616d592e521f924182ae9d37"
+  },
+  "isdeleted": false,
+  "name": "Nuclear Equations",
+  "topic_id": {
+    "$oid": "6154928d521f924182ae9c96"
+  },
+  "level": 2,
+  "order": -133,
+  "image": "/images/fb635092cce03d1bfb9902400b6499ae.jpg",
+  "createdAt": {
+    "$date": "2021-10-18T11:23:26.300Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616d59c4521f924182ae9d3a"
+  },
+  "isdeleted": false,
+  "name": "Hazards and Uses of Radiation",
+  "topic_id": {
+    "$oid": "6154928d521f924182ae9c96"
+  },
+  "level": 3,
+  "order": -136,
+  "image": "/images/c2e6a0feed9a57317ad6150dad8eb45b.jpg",
+  "createdAt": {
+    "$date": "2021-10-18T11:25:56.321Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616d5a56521f924182ae9d3d"
+  },
+  "isdeleted": false,
+  "name": " Nuclear Fission and Fusion",
+  "topic_id": {
+    "$oid": "6154928d521f924182ae9c96"
+  },
+  "level": 3,
+  "order": -138,
+  "image": "/images/d9cbee42d6764a2c7196e5d335810c20.jpg",
+  "createdAt": {
+    "$date": "2021-10-18T11:28:22.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "618bba1a521f924182ae9d74"
+  },
+  "isdeleted": false,
+  "name": "Order of Operations",
+  "topic_id": {
+    "$oid": "618bb7eb521f924182ae9d72"
+  },
+  "level": 1,
+  "order": 49,
+  "image": "/images/59b6e590779f590ae4d2e14cd67461d0.jpg",
+  "createdAt": {
+    "$date": "2021-11-10T12:24:58.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61a8c095521f924182ae9dbf"
+  },
+  "isdeleted": false,
+  "name": "Temperature, Water and Nitrogen Regulation",
+  "topic_id": {
+    "$oid": "60dda6d627dbc37ef0be8e04"
+  },
+  "level": 3,
+  "order": 64,
+  "image": "/images/52f9d1b2c10ef53fdadcd879339a5d88.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:48:21.583Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b4c703521f924182ae9dfc"
+  },
+  "isdeleted": false,
+  "name": "Selective Breeding and Cloning",
+  "topic_id": {
+    "$oid": "60dda71027dbc37ef0be8e05"
+  },
+  "level": 3,
+  "order": 73,
+  "image": "/images/73566a6a98b983c96692050ed60163df.png",
+  "createdAt": {
+    "$date": "2021-12-11T15:42:59.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b885f82c13a37e31740970"
+  },
+  "isdeleted": false,
+  "name": "Sequences",
+  "topic_id": {
+    "$oid": "61994fd0521f924182ae9db0"
+  },
+  "level": 3,
+  "order": 51,
+  "image": "/images/540cb2698b1757e9a38faea542425f0a.jpg",
+  "createdAt": {
+    "$date": "2021-12-14T11:54:32.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630cd2f72c13a37e31740a17"
+  },
+  "isdeleted": false,
+  "name": "Scale Diagrams",
+  "topic_id": {
+    "$oid": "630cb3a42c13a37e31740a11"
+  },
+  "level": 2,
+  "order": 95,
+  "image": "/images/4479421b4c969d320e4a294747497976.jpg",
+  "createdAt": {
+    "$date": "2022-08-29T14:53:43.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630cd32a2c13a37e31740a18"
+  },
+  "isdeleted": false,
+  "name": "Speed, Distance and Time",
+  "topic_id": {
+    "$oid": "630cb3a42c13a37e31740a11"
+  },
+  "level": 2,
+  "order": 94,
+  "image": "/images/1bd90c4e37ed22c8cb5d4ff4bc3c9f39.jpg",
+  "createdAt": {
+    "$date": "2022-08-29T14:54:34.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6346efa1e35addbc2776f143"
+  },
+  "isdeleted": false,
+  "name": "Le Chatelier's Principle: Pressure",
+  "topic_id": {
+    "$oid": "60dda590dfd6220cf6dd2ea6"
+  },
+  "level": 3,
+  "order": 112,
+  "image": "/images/89142b2b1952268b673c3a93396e0df0.jpg",
+  "createdAt": {
+    "$date": "2022-10-12T16:47:29.896Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634f2eb2e35addbc2776f174"
+  },
+  "isdeleted": false,
+  "name": "Fractional Distillation",
+  "topic_id": {
+    "$oid": "60dda5a8dfd6220cf6dd2ea7"
+  },
+  "level": 2,
+  "order": 127,
+  "image": "/images/8b18f273ee7ddf9540a68b44df35aa35.jpg",
+  "createdAt": {
+    "$date": "2022-10-18T22:54:42.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6361a0f72aa7bc65f174d90a"
+  },
+  "isdeleted": false,
+  "name": "Water",
+  "topic_id": {
+    "$oid": "60dda605dfd6220cf6dd2eaa"
+  },
+  "level": 2,
+  "order": 157,
+  "image": "/images/c6d3895d2496afaafd1fd08a8e34126f.png",
+  "createdAt": {
+    "$date": "2022-11-01T22:43:03.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fd29732aa7bc65f174da1a"
+  },
+  "isdeleted": false,
+  "name": "Plot Testing",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 210,
+  "image": "/images/188ceb9b7830ecf1a372ec71712d02a7.jpg",
+  "createdAt": {
+    "$date": "2023-02-27T22:06:43.861Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ccab31dfd6220cf6dd2e58"
+  },
+  "isdeleted": false,
+  "name": "Cell Differentiation",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 3,
+  "order": 3,
+  "image": "/images/a04c1edd66f8592b89e1a85f4379f923.png",
+  "createdAt": {
+    "$date": "2021-06-18T14:18:25.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e3115027dbc37ef0be8e22"
+  },
+  "isdeleted": false,
+  "name": "Developing Drugs",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 3,
+  "order": 21,
+  "image": "/images/cbc0ed7e9ce8f16a08d5eee4dab3341c.png",
+  "createdAt": {
+    "$date": "2021-07-05T14:04:00.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6155dba3521f924182ae9c9d"
+  },
+  "isdeleted": false,
+  "name": "Energy Transfers",
+  "topic_id": {
+    "$oid": "61548d6b521f924182ae9c93"
+  },
+  "level": 3,
+  "order": -106,
+  "image": "/images/4044b3c9bd2b6e6b0adcdf47f8fc14a8.png",
+  "createdAt": {
+    "$date": "2021-09-30T15:45:39.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61a8bdec521f924182ae9dbb"
+  },
+  "isdeleted": false,
+  "name": "The Human Endocrine System",
+  "topic_id": {
+    "$oid": "60dda6d627dbc37ef0be8e04"
+  },
+  "level": 1,
+  "order": 68,
+  "image": "/images/f3bbcdc8654c7f32eacc413ee40798cd.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:37:00.351Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61a8be38521f924182ae9dbc"
+  },
+  "isdeleted": false,
+  "name": "Blood Glucose Regulation and Diabetes",
+  "topic_id": {
+    "$oid": "60dda6d627dbc37ef0be8e04"
+  },
+  "level": 2,
+  "order": 67,
+  "image": "/images/944884f2f340aa7a1ef04b61b04ebb68.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:38:16.571Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61a8c0aa521f924182ae9dc0"
+  },
+  "isdeleted": false,
+  "name": "The Brain",
+  "topic_id": {
+    "$oid": "60dda6d627dbc37ef0be8e04"
+  },
+  "level": 3,
+  "order": 64,
+  "image": "/images/1a3eda295be5ec34ce829146a4bf4717.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:48:42.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b4a044521f924182ae9dfa"
+  },
+  "isdeleted": false,
+  "name": "Genetic Engineering",
+  "topic_id": {
+    "$oid": "60dda71027dbc37ef0be8e05"
+  },
+  "level": 2,
+  "order": 75,
+  "image": "/images/a720aad72f16a0285006f0ebafaea62c.png",
+  "createdAt": {
+    "$date": "2021-12-11T12:57:40.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d463812c13a37e317409ab"
+  },
+  "isdeleted": false,
+  "name": "Environmental Change and Decomposition",
+  "topic_id": {
+    "$oid": "60dda72127dbc37ef0be8e06"
+  },
+  "level": 3,
+  "order": 81,
+  "image": "/images/ae26f788001f4c0006e93071ff8b4bbc.jpg",
+  "createdAt": {
+    "$date": "2022-01-04T15:10:57.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634f2d77e35addbc2776f172"
+  },
+  "isdeleted": false,
+  "name": "Properties of Hydrocarbons",
+  "topic_id": {
+    "$oid": "60dda5a8dfd6220cf6dd2ea7"
+  },
+  "level": 1,
+  "order": 129,
+  "image": "/images/7ab83728baa5bceb6478f82416b669b3.jpg",
+  "createdAt": {
+    "$date": "2022-10-18T22:49:27.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "634f2f78e35addbc2776f178"
+  },
+  "isdeleted": false,
+  "name": "Addition Polymers",
+  "topic_id": {
+    "$oid": "60dda5a8dfd6220cf6dd2ea7"
+  },
+  "level": 3,
+  "order": 123,
+  "image": "/images/98894c5fc066dca0b44ad7ff18728944.jpg",
+  "createdAt": {
+    "$date": "2022-10-18T22:58:00.159Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636852632aa7bc65f174d947"
+  },
+  "isdeleted": false,
+  "name": "Forces and Braking",
+  "topic_id": {
+    "$oid": "6367d0cf2aa7bc65f174d940"
+  },
+  "level": 1,
+  "order": 167,
+  "image": "/images/f6c6ff7930bac66720b947378bc6a78f.png",
+  "createdAt": {
+    "$date": "2022-11-07T00:33:39.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6368529a2aa7bc65f174d949"
+  },
+  "isdeleted": false,
+  "name": "Forces and Motion II",
+  "topic_id": {
+    "$oid": "6367d0cf2aa7bc65f174d940"
+  },
+  "level": 2,
+  "order": 165,
+  "image": "/images/0b9c1a0f3b7adf78bbcbd81c4c8a4e4c.png",
+  "createdAt": {
+    "$date": "2022-11-07T00:34:34.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636854222aa7bc65f174d94c"
+  },
+  "isdeleted": false,
+  "name": "Pressure and Upthrust",
+  "topic_id": {
+    "$oid": "6367d0cf2aa7bc65f174d940"
+  },
+  "level": 3,
+  "order": 162,
+  "image": "/images/3d40ca1c5524fdab6331002093ee5906.png",
+  "createdAt": {
+    "$date": "2022-11-07T00:41:06.691Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637761ad2aa7bc65f174d98c"
+  },
+  "isdeleted": false,
+  "name": "Waves for Detection and Exploration",
+  "topic_id": {
+    "$oid": "6367d0fd2aa7bc65f174d941"
+  },
+  "level": 3,
+  "order": 171,
+  "image": "/images/b19269803bc9d023d472a3b19580cf39.png",
+  "createdAt": {
+    "$date": "2022-11-18T10:42:53.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640119712aa7bc65f174da5a"
+  },
+  "isdeleted": false,
+  "name": "Setting and Historical Context",
+  "topic_id": {
+    "$oid": "6401136c2aa7bc65f174da58"
+  },
+  "level": 1,
+  "order": 219,
+  "image": "/images/246e8b8748ddcfc464e3ed7291aac8fa.jpg",
+  "createdAt": {
+    "$date": "2023-03-02T21:47:29.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "640119bc2aa7bc65f174da5b"
+  },
+  "isdeleted": false,
+  "name": "Themes and Motifs",
+  "topic_id": {
+    "$oid": "6401136c2aa7bc65f174da58"
+  },
+  "level": 1,
+  "order": 218,
+  "image": "/images/36d09e5db9a56e6f8b3c79109b024e2e.jpg",
+  "createdAt": {
+    "$date": "2023-03-02T21:48:44.288Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6407ae8a2aa7bc65f174da99"
+  },
+  "isdeleted": false,
+  "name": "Themes and Motifs",
+  "topic_id": {
+    "$oid": "64065d6d2aa7bc65f174da96"
+  },
+  "level": 1,
+  "order": 428,
+  "image": "/images/f00e72602aec5d848a99f20859173f46.png",
+  "createdAt": {
+    "$date": "2023-03-07T21:37:14.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6407aef72aa7bc65f174da9c"
+  },
+  "isdeleted": false,
+  "name": "Symbols and Imagery",
+  "topic_id": {
+    "$oid": "64065d6d2aa7bc65f174da96"
+  },
+  "level": 2,
+  "order": 425,
+  "image": "/images/9e643062f3b9d9ce5ffc38547aad4ffc.png",
+  "createdAt": {
+    "$date": "2023-03-07T21:39:03.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "641f246e2aa7bc65f174dadc"
+  },
+  "isdeleted": false,
+  "name": "A Christmas Carol: Setting and Historical Context",
+  "topic_id": {
+    "$oid": "641eeeb22aa7bc65f174dada"
+  },
+  "level": 1,
+  "order": 439,
+  "image": "/images/8b05b3f165e2f7c2abf07c2f672677ef.png",
+  "createdAt": {
+    "$date": "2023-03-25T16:42:22.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6426fa8c2aa7bc65f174dae1"
+  },
+  "isdeleted": false,
+  "name": "Social Criticism",
+  "topic_id": {
+    "$oid": "641eeeb22aa7bc65f174dada"
+  },
+  "level": 2,
+  "order": 434,
+  "image": "/images/8bca5713f3f16363af7b4c7030157603.png",
+  "createdAt": {
+    "$date": "2023-03-31T15:21:48.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64996e5c2aa7bc65f174db3d"
+  },
+  "isdeleted": false,
+  "name": "Life of Prophet Muhammad",
+  "topic_id": {
+    "$oid": "6491bd6a2aa7bc65f174db1a"
+  },
+  "level": 1,
+  "order": -206,
+  "image": "/images/278cb01601df2394f4d740ecc7a5b24d.png",
+  "createdAt": {
+    "$date": "2023-06-26T10:54:20.396Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60cc7f94dfd6220cf6dd2e40"
+  },
+  "isdeleted": false,
+  "name": "Microscopy I",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 8,
+  "image": "/images/2e03918f1e57f8c1bb69928bdbe61474.png",
+  "createdAt": {
+    "$date": "2021-06-18T11:12:20.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "611a5307521f924182ae9b28"
+  },
+  "isdeleted": false,
+  "name": "The Periodic Table",
+  "topic_id": {
+    "$oid": "60d47aeedfd6220cf6dd2e6e"
+  },
+  "level": 1,
+  "order": -4,
+  "image": "/images/67eeb6d9da530e0c67b5ead1e8e8f7bb.png",
+  "createdAt": {
+    "$date": "2021-08-16T11:59:03.359Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "612fca06521f924182ae9b70"
+  },
+  "isdeleted": false,
+  "name": "Ionic Compounds",
+  "topic_id": {
+    "$oid": "60db2a34dfd6220cf6dd2ea2"
+  },
+  "level": 2,
+  "order": -14,
+  "image": "/images/967db05775893f82c754934916df2754.png",
+  "createdAt": {
+    "$date": "2021-09-01T18:44:22.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613cbb80521f924182ae9bd6"
+  },
+  "isdeleted": false,
+  "name": "Key Beliefs and Teachings",
+  "topic_id": {
+    "$oid": "613cba2f521f924182ae9bd4"
+  },
+  "level": 1,
+  "order": -200,
+  "image": "/images/23fe7276e7b0bde2e62460fc1dfdc509.png",
+  "createdAt": {
+    "$date": "2021-09-11T14:21:52.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "614b36ab521f924182ae9c4a"
+  },
+  "isdeleted": false,
+  "name": "Metal Extraction",
+  "topic_id": {
+    "$oid": "60db2c06dfd6220cf6dd2ea4"
+  },
+  "level": 1,
+  "order": -29,
+  "image": "/images/7b4f5183a04321aa1f7724fcfbc0f119.png",
+  "createdAt": {
+    "$date": "2021-09-22T13:59:07.751Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "614b389b521f924182ae9c4d"
+  },
+  "isdeleted": false,
+  "name": "Redox Reactions",
+  "topic_id": {
+    "$oid": "60db2c06dfd6220cf6dd2ea4"
+  },
+  "level": 3,
+  "order": -33,
+  "image": "/images/efb33cc249c0e18ec52f0396e61dffae.png",
+  "createdAt": {
+    "$date": "2021-09-22T14:07:23.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6155d977521f924182ae9c9a"
+  },
+  "isdeleted": false,
+  "name": "Efficiency",
+  "topic_id": {
+    "$oid": "61548d6b521f924182ae9c93"
+  },
+  "level": 2,
+  "order": -103,
+  "image": "/images/f57c419af2fb814a99d00a9e824352c4.png",
+  "createdAt": {
+    "$date": "2021-09-30T15:36:23.067Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6155d9ea521f924182ae9c9b"
+  },
+  "isdeleted": false,
+  "name": "Changes in Energy",
+  "topic_id": {
+    "$oid": "61548d6b521f924182ae9c93"
+  },
+  "level": 2,
+  "order": -104,
+  "image": "/images/18fdd9d641a9bd6462c2447edb776c76.png",
+  "createdAt": {
+    "$date": "2021-09-30T15:38:18.054Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616d581d521f924182ae9d34"
+  },
+  "isdeleted": false,
+  "name": "Atoms and Isotopes",
+  "topic_id": {
+    "$oid": "6154928d521f924182ae9c96"
+  },
+  "level": 1,
+  "order": -130,
+  "image": "/images/ff9162c5ff095a949013631c4ac53fdd.jpg",
+  "createdAt": {
+    "$date": "2021-10-18T11:18:53.267Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "618bb9f1521f924182ae9d73"
+  },
+  "isdeleted": false,
+  "name": "Integers and Comparing Numbers",
+  "topic_id": {
+    "$oid": "618bb7eb521f924182ae9d72"
+  },
+  "level": 1,
+  "order": 50,
+  "image": "/images/014186b009c64b8641601c15845a83b3.jpg",
+  "createdAt": {
+    "$date": "2021-11-10T12:24:17.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b4a063521f924182ae9dfb"
+  },
+  "isdeleted": false,
+  "name": "Genetic Inheritance II",
+  "topic_id": {
+    "$oid": "60dda71027dbc37ef0be8e05"
+  },
+  "level": 2,
+  "order": 74,
+  "image": "/images/444b61466cd708f8fce188e9033650d6.png",
+  "createdAt": {
+    "$date": "2021-12-11T12:58:11.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b8859d2c13a37e3174096e"
+  },
+  "isdeleted": false,
+  "name": "Graphs",
+  "topic_id": {
+    "$oid": "61994fd0521f924182ae9db0"
+  },
+  "level": 3,
+  "order": 53,
+  "image": "/images/c3747411435fc69e6f59ff0cf8139ac5.jpg",
+  "createdAt": {
+    "$date": "2021-12-14T11:53:01.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631c75042c13a37e31740a45"
+  },
+  "isdeleted": false,
+  "name": "Vectors",
+  "topic_id": {
+    "$oid": "631bc1782c13a37e31740a41"
+  },
+  "level": 1,
+  "order": 107,
+  "image": "/images/0f7c7329092b8866b4420651e9c2826a.jpg",
+  "createdAt": {
+    "$date": "2022-09-10T11:29:08.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63614a972aa7bc65f174d907"
+  },
+  "isdeleted": false,
+  "name": "The Earth's Resources",
+  "topic_id": {
+    "$oid": "60dda605dfd6220cf6dd2eaa"
+  },
+  "level": 1,
+  "order": 160,
+  "image": "/images/b80217bfe4c18bee4d44eb4dc71420da.png",
+  "createdAt": {
+    "$date": "2022-11-01T16:34:31.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6361a21a2aa7bc65f174d90e"
+  },
+  "isdeleted": false,
+  "name": "The Haber Process",
+  "topic_id": {
+    "$oid": "60dda605dfd6220cf6dd2eaa"
+  },
+  "level": 3,
+  "order": 153,
+  "image": "/images/82d363ba32699bd83b113f53aedf9623.png",
+  "createdAt": {
+    "$date": "2022-11-01T22:47:54.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fe1b162aa7bc65f174da1f"
+  },
+  "isdeleted": false,
+  "name": "Banquo Quotes",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 2,
+  "order": 206,
+  "image": "/images/496b77d9e93a3db6f891a621c1d9ce45.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:42.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406611b2aa7bc65f174da97"
+  },
+  "isdeleted": false,
+  "name": "Plot Summary and Basic Character Analysis",
+  "topic_id": {
+    "$oid": "64065d6d2aa7bc65f174da96"
+  },
+  "level": 1,
+  "order": 430,
+  "image": "/images/84dba126f5da6e33304b2110c34151fb.png",
+  "createdAt": {
+    "$date": "2023-03-06T21:54:35.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6407af972aa7bc65f174daa0"
+  },
+  "isdeleted": false,
+  "name": "Historical and Cultural Significance",
+  "topic_id": {
+    "$oid": "64065d6d2aa7bc65f174da96"
+  },
+  "level": 3,
+  "order": 421,
+  "image": "/images/967f0234e99bdc02b63d6f598197ea6d.png",
+  "createdAt": {
+    "$date": "2023-03-07T21:41:43.866Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60ccab47dfd6220cf6dd2e59"
+  },
+  "isdeleted": false,
+  "name": "Chromosomes and Cell Cycle",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 3,
+  "order": 2,
+  "image": "/images/c5a210d7a0ba030c5c9e205cac404c29.png",
+  "createdAt": {
+    "$date": "2021-06-18T14:18:47.844Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60c89276dfd6220cf6dd2e3c"
+  },
+  "isdeleted": true,
+  "name": "Diffucsion1",
+  "topic_id": {
+    "$oid": "60bfa3a6b514b88d8938057e"
+  },
+  "level": 2,
+  "order": 2,
+  "image": "/images/5b96fc89403ce07fed4a7eb521137ba4.png",
+  "createdAt": {
+    "$date": "2021-06-15T11:43:50.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60d9dbb8dfd6220cf6dd2e77"
+  },
+  "isdeleted": false,
+  "name": "The Lungs",
+  "topic_id": {
+    "$oid": "60c62375dfd6220cf6dd2e38"
+  },
+  "level": 1,
+  "order": 18,
+  "image": "/images/83993eb8f336edd0de3dcc4c0c21b221.png",
+  "createdAt": {
+    "$date": "2021-06-28T14:24:56.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60da4677dfd6220cf6dd2e89"
+  },
+  "isdeleted": false,
+  "name": "Digestion and Food Tests",
+  "topic_id": {
+    "$oid": "60c62375dfd6220cf6dd2e38"
+  },
+  "level": 2,
+  "order": 14,
+  "image": "/images/72a2ff63c4ed786944f9172d76d19c7e.png",
+  "createdAt": {
+    "$date": "2021-06-28T22:00:23.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60da46fedfd6220cf6dd2e8b"
+  },
+  "isdeleted": false,
+  "name": "Non Communicable Diseases II",
+  "topic_id": {
+    "$oid": "60c62375dfd6220cf6dd2e38"
+  },
+  "level": 3,
+  "order": 12,
+  "image": "/images/1a969b0e4cc1cd967aed01d98e66afd1.png",
+  "createdAt": {
+    "$date": "2021-06-28T22:02:38.292Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e310fd27dbc37ef0be8e1f"
+  },
+  "isdeleted": false,
+  "name": "Fighting Disease: Vaccine I",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 2,
+  "order": 24,
+  "image": "/images/88982800de354a1b4aabab130a5af0c2.png",
+  "createdAt": {
+    "$date": "2021-07-05T14:02:37.494Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61139d6a521f924182ae9b0f"
+  },
+  "isdeleted": false,
+  "name": "Cell Respiration III",
+  "topic_id": {
+    "$oid": "60dda66ddfd6220cf6dd2eac"
+  },
+  "level": 2,
+  "order": 35,
+  "image": "/images/fb4a65a5cfdb4213118ddd30b65dd354.png",
+  "createdAt": {
+    "$date": "2021-08-11T09:50:34.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "612fc7f0521f924182ae9b6c"
+  },
+  "isdeleted": false,
+  "name": "The States of Matter",
+  "topic_id": {
+    "$oid": "60db2a34dfd6220cf6dd2ea2"
+  },
+  "level": 1,
+  "order": -10,
+  "image": "/images/fff325f65b79eb8bdb2082ea90cadc59.png",
+  "createdAt": {
+    "$date": "2021-09-01T18:35:28.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61519b9d521f924182ae9c76"
+  },
+  "isdeleted": false,
+  "name": "Endothermic Reactions",
+  "topic_id": {
+    "$oid": "60dda563dfd6220cf6dd2ea5"
+  },
+  "level": 1,
+  "order": -36,
+  "image": "/images/b651a7e6d94b0a0c8396abd1b2328536.png",
+  "createdAt": {
+    "$date": "2021-09-27T10:23:25.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "615d8223521f924182ae9cda"
+  },
+  "isdeleted": false,
+  "name": "Resistrors",
+  "topic_id": {
+    "$oid": "615490af521f924182ae9c94"
+  },
+  "level": 3,
+  "order": -117,
+  "image": "/images/a5d5247f0effc34b6d09542c4bd54627.png",
+  "createdAt": {
+    "$date": "2021-10-06T11:01:55.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "615d8265521f924182ae9cdc"
+  },
+  "isdeleted": false,
+  "name": "Electric Fields",
+  "topic_id": {
+    "$oid": "615490af521f924182ae9c94"
+  },
+  "level": 3,
+  "order": -119,
+  "image": "/images/59c5a0f5ae3b75377bfe1c7e8ae17db5.png",
+  "createdAt": {
+    "$date": "2021-10-06T11:03:01.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616d58af521f924182ae9d35"
+  },
+  "isdeleted": false,
+  "name": "Models of the Atom",
+  "topic_id": {
+    "$oid": "6154928d521f924182ae9c96"
+  },
+  "level": 1,
+  "order": -131,
+  "image": "/images/7988a2644e405e5271532b533a731bae.jpg",
+  "createdAt": {
+    "$date": "2021-10-18T11:21:19.329Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616d58ea521f924182ae9d36"
+  },
+  "isdeleted": false,
+  "name": "Radioactive Decay",
+  "topic_id": {
+    "$oid": "6154928d521f924182ae9c96"
+  },
+  "level": 1,
+  "order": -132,
+  "image": "/images/6feaa4acc0f812d6d05a33a5709d628b.jpg",
+  "createdAt": {
+    "$date": "2021-10-18T11:22:18.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "618bbbdf521f924182ae9d7c"
+  },
+  "isdeleted": false,
+  "name": "Rounding and Estimations",
+  "topic_id": {
+    "$oid": "618bb7eb521f924182ae9d72"
+  },
+  "level": 3,
+  "order": 41,
+  "image": "/images/c394f101d86d13777efe0540ba76ae3c.jpg",
+  "createdAt": {
+    "$date": "2021-11-10T12:32:31.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61a8c00f521f924182ae9dbe"
+  },
+  "isdeleted": false,
+  "name": "Negative Feedback",
+  "topic_id": {
+    "$oid": "60dda6d627dbc37ef0be8e04"
+  },
+  "level": 2,
+  "order": 65,
+  "image": "/images/6bf3c12927edf5b98498291d2df4bdbb.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:46:07.282Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61a8c0c3521f924182ae9dc1"
+  },
+  "isdeleted": false,
+  "name": "The Eye",
+  "topic_id": {
+    "$oid": "60dda6d627dbc37ef0be8e04"
+  },
+  "level": 3,
+  "order": 63,
+  "image": "/images/24bed3565ee9e925212724adcf1ef44a.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:49:07.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b49e8c521f924182ae9df6"
+  },
+  "isdeleted": false,
+  "name": "Classification of Living Organisms",
+  "topic_id": {
+    "$oid": "60dda71027dbc37ef0be8e05"
+  },
+  "level": 1,
+  "order": 79,
+  "image": "/images/27d036ee9d50729a192cf984aa03fd88.png",
+  "createdAt": {
+    "$date": "2021-12-11T12:50:20.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b883b62c13a37e31740968"
+  },
+  "isdeleted": false,
+  "name": "Simplifying and Manipulating Algebraic Expressions",
+  "topic_id": {
+    "$oid": "61994fd0521f924182ae9db0"
+  },
+  "level": 1,
+  "order": 59,
+  "image": "/images/f5d084087ea87b35102f448a80349b8e.jpg",
+  "createdAt": {
+    "$date": "2021-12-14T11:44:54.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d583de2c13a37e317409af"
+  },
+  "isdeleted": false,
+  "name": "Biodiversity",
+  "topic_id": {
+    "$oid": "60dda72127dbc37ef0be8e06"
+  },
+  "level": 2,
+  "order": 86,
+  "image": "/images/0cbfe6da182917796c6515b4f41d8ce6.jpg",
+  "createdAt": {
+    "$date": "2022-01-05T11:41:18.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630cd2d72c13a37e31740a16"
+  },
+  "isdeleted": false,
+  "name": "Direct and Inverse Proportion",
+  "topic_id": {
+    "$oid": "630cb3a42c13a37e31740a11"
+  },
+  "level": 2,
+  "order": 96,
+  "image": "/images/f3cc943e23961fb6e13bd3cece950a92.jpg",
+  "createdAt": {
+    "$date": "2022-08-29T14:53:11.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "636852b52aa7bc65f174d94a"
+  },
+  "isdeleted": false,
+  "name": "Momentum",
+  "topic_id": {
+    "$oid": "6367d0cf2aa7bc65f174d940"
+  },
+  "level": 2,
+  "order": 164,
+  "image": "/images/eb055c816a00772eef34a333b9f315ce.png",
+  "createdAt": {
+    "$date": "2022-11-07T00:35:01.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6388b18a2aa7bc65f174d9ef"
+  },
+  "isdeleted": false,
+  "name": "Orbital Motion",
+  "topic_id": {
+    "$oid": "6367d16f2aa7bc65f174d943"
+  },
+  "level": 2,
+  "order": 198,
+  "image": "/images/1a9adf06ca224dc507a4da64387cf30a.jpg",
+  "createdAt": {
+    "$date": "2022-12-01T13:52:10.073Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6426fbac2aa7bc65f174dae4"
+  },
+  "isdeleted": false,
+  "name": "A Christmas Carol: Historical and Cultural Significance",
+  "topic_id": {
+    "$oid": "641eeeb22aa7bc65f174dada"
+  },
+  "level": 3,
+  "order": 431,
+  "image": "/images/20c3ddf12f6dffff05c94620c3040710.png",
+  "createdAt": {
+    "$date": "2023-03-31T15:26:36.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "60e310d027dbc37ef0be8e1e"
+  },
+  "isdeleted": false,
+  "name": "Spread and Prevention of Diseases",
+  "topic_id": {
+    "$oid": "60dda649dfd6220cf6dd2eab"
+  },
+  "level": 2,
+  "order": 25,
+  "image": "/images/22e9ffd0cf51a09bc30257a46c1a5f3c.png",
+  "createdAt": {
+    "$date": "2021-07-05T14:01:52.678Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "612fcb91521f924182ae9b75"
+  },
+  "isdeleted": false,
+  "name": "Nanoscience",
+  "topic_id": {
+    "$oid": "60db2a34dfd6220cf6dd2ea2"
+  },
+  "level": 3,
+  "order": -19,
+  "image": "/images/fc2b6ac5bd48536f33a7abae29c7e3b5.png",
+  "createdAt": {
+    "$date": "2021-09-01T18:50:57.737Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613890ba521f924182ae9bad"
+  },
+  "isdeleted": false,
+  "name": "Concentration of Solutions I",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 1,
+  "order": -22,
+  "image": "/images/bb119c1ea44b00bd95236f39366070d0.jpg",
+  "createdAt": {
+    "$date": "2021-09-08T10:30:18.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61410c4d521f924182ae9c09"
+  },
+  "isdeleted": false,
+  "name": "Relationships and Families",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 1,
+  "order": -210,
+  "image": "/images/99f3578043b920bae181c5117a36e986.png",
+  "createdAt": {
+    "$date": "2021-09-14T20:55:41.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "615d7bb7521f924182ae9cd3"
+  },
+  "isdeleted": false,
+  "name": "Circuit Diagrams",
+  "topic_id": {
+    "$oid": "615490af521f924182ae9c94"
+  },
+  "level": 1,
+  "order": -110,
+  "image": "/images/efd43741581e172eca3bbb791eb35037.png",
+  "createdAt": {
+    "$date": "2021-10-06T10:34:31.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616578cc521f924182ae9d12"
+  },
+  "isdeleted": false,
+  "name": "Specific Latent Heat",
+  "topic_id": {
+    "$oid": "61549189521f924182ae9c95"
+  },
+  "level": 2,
+  "order": -123,
+  "image": "/images/3f16e2f689d90f2fea89f1dec68546e9.jpg",
+  "createdAt": {
+    "$date": "2021-10-12T12:00:12.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616578f6521f924182ae9d13"
+  },
+  "isdeleted": false,
+  "name": "Particle Model and Pressure I",
+  "topic_id": {
+    "$oid": "61549189521f924182ae9c95"
+  },
+  "level": 2,
+  "order": -124,
+  "image": "/images/ed8d281a3592ab6e0f8518e1d22d2e24.jpg",
+  "createdAt": {
+    "$date": "2021-10-12T12:00:54.584Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616d5a2c521f924182ae9d3c"
+  },
+  "isdeleted": false,
+  "name": "Medical Uses of Nuclear Radiation",
+  "topic_id": {
+    "$oid": "6154928d521f924182ae9c96"
+  },
+  "level": 3,
+  "order": -137,
+  "image": "/images/0396839fae7d32be4f09deb9f0468354.jpg",
+  "createdAt": {
+    "$date": "2021-10-18T11:27:40.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "618bbbb8521f924182ae9d7b"
+  },
+  "isdeleted": false,
+  "name": "Measurements",
+  "topic_id": {
+    "$oid": "618bb7eb521f924182ae9d72"
+  },
+  "level": 3,
+  "order": 42,
+  "image": "/images/06d167ab33cf96d93ef5ec6e66e96d4c.jpg",
+  "createdAt": {
+    "$date": "2021-11-10T12:31:52.280Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b49f2d521f924182ae9df7"
+  },
+  "isdeleted": false,
+  "name": "Variation and Evolution",
+  "topic_id": {
+    "$oid": "60dda71027dbc37ef0be8e05"
+  },
+  "level": 1,
+  "order": 78,
+  "image": "/images/ba5c180031e220682a96fdd8203a9a5c.png",
+  "createdAt": {
+    "$date": "2021-12-11T12:53:01.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "630cd3502c13a37e31740a19"
+  },
+  "isdeleted": false,
+  "name": "Unit Conversions",
+  "topic_id": {
+    "$oid": "630cb3a42c13a37e31740a11"
+  },
+  "level": 3,
+  "order": 94,
+  "image": "/images/26dd31146dc66a450f58d923ad03bbdf.jpg",
+  "createdAt": {
+    "$date": "2022-08-29T14:55:12.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "631c75f62c13a37e31740a4b"
+  },
+  "isdeleted": false,
+  "name": "Trigonometry",
+  "topic_id": {
+    "$oid": "631bc1782c13a37e31740a41"
+  },
+  "level": 3,
+  "order": 101,
+  "image": "/images/cb94426c698ce01cb86ec3547806490b.jpg",
+  "createdAt": {
+    "$date": "2022-09-10T11:33:10.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6388b13b2aa7bc65f174d9ee"
+  },
+  "isdeleted": false,
+  "name": "The Life Cycle of a Star",
+  "topic_id": {
+    "$oid": "6367d16f2aa7bc65f174d943"
+  },
+  "level": 1,
+  "order": 199,
+  "image": "/images/3fe722b2879366a5582824525c3aa828.jpg",
+  "createdAt": {
+    "$date": "2022-12-01T13:50:51.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6388b1d32aa7bc65f174d9f0"
+  },
+  "isdeleted": false,
+  "name": "Red-Shift",
+  "topic_id": {
+    "$oid": "6367d16f2aa7bc65f174d943"
+  },
+  "level": 3,
+  "order": 197,
+  "image": "/images/4bd875a2a8a9b6a1ed086cff7abea5bd.jpg",
+  "createdAt": {
+    "$date": "2022-12-01T13:53:23.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63fe1c6b2aa7bc65f174da24"
+  },
+  "isdeleted": false,
+  "name": "Loyalty & Guilt Quotes",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 3,
+  "order": 201,
+  "image": "/images/c266406bbdd9156e0c95fa59c911b890.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:23:23.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6426fa5a2aa7bc65f174dae0"
+  },
+  "isdeleted": false,
+  "name": "A Christmas Carol: Symbols and Imagery",
+  "topic_id": {
+    "$oid": "641eeeb22aa7bc65f174dada"
+  },
+  "level": 2,
+  "order": 435,
+  "image": "/images/87ccd09787a99f4a827cd543ae89f31c.png",
+  "createdAt": {
+    "$date": "2023-03-31T15:20:58.733Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61139cdc521f924182ae9b0d"
+  },
+  "isdeleted": false,
+  "name": "Cell Respiration II",
+  "topic_id": {
+    "$oid": "60dda66ddfd6220cf6dd2eac"
+  },
+  "level": 2,
+  "order": 37,
+  "image": "/images/420f54d75de5cdba8a35dd391ce1fd21.png",
+  "createdAt": {
+    "$date": "2021-08-11T09:48:12.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "612fc92f521f924182ae9b6d"
+  },
+  "isdeleted": false,
+  "name": "Formation of Chemical Bonds",
+  "topic_id": {
+    "$oid": "60db2a34dfd6220cf6dd2ea2"
+  },
+  "level": 1,
+  "order": -11,
+  "image": "/images/5aef3b85fd2aacf63f8c5a5e1dc3fe12.png",
+  "createdAt": {
+    "$date": "2021-09-01T18:40:47.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613ba185521f924182ae9bc8"
+  },
+  "isdeleted": true,
+  "name": "The World at War",
+  "topic_id": {
+    "$oid": "613a7b34521f924182ae9bbc"
+  },
+  "level": 1,
+  "order": -1,
+  "image": "/images/834314e44e75eec4bc0c1e5985ec5d4b.png",
+  "createdAt": {
+    "$date": "2021-09-10T18:18:45.753Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "613cbc2b521f924182ae9bd8"
+  },
+  "isdeleted": false,
+  "name": "Sources of Wisdom and Authority",
+  "topic_id": {
+    "$oid": "613cba2f521f924182ae9bd4"
+  },
+  "level": 2,
+  "order": -203,
+  "image": "/images/91e7377f40b23eb17620791003021e96.png",
+  "createdAt": {
+    "$date": "2021-09-11T14:24:43.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "614b38b2521f924182ae9c4e"
+  },
+  "isdeleted": false,
+  "name": "Electrolysis II",
+  "topic_id": {
+    "$oid": "60db2c06dfd6220cf6dd2ea4"
+  },
+  "level": 3,
+  "order": -34,
+  "image": "/images/0b3a540e7581ed8bb7aec1eb11008e2b.png",
+  "createdAt": {
+    "$date": "2021-09-22T14:07:46.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61519bb7521f924182ae9c77"
+  },
+  "isdeleted": false,
+  "name": "Activation Energy",
+  "topic_id": {
+    "$oid": "60dda563dfd6220cf6dd2ea5"
+  },
+  "level": 1,
+  "order": -37,
+  "image": "/images/f28396c3700278f2ff1bc3824a49cfdc.png",
+  "createdAt": {
+    "$date": "2021-09-27T10:23:51.244Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6155d849521f924182ae9c98"
+  },
+  "isdeleted": false,
+  "name": "Power",
+  "topic_id": {
+    "$oid": "61548d6b521f924182ae9c93"
+  },
+  "level": 1,
+  "order": -102,
+  "image": "/images/96a36356dc0acbb9295b35e7e3859825.png",
+  "createdAt": {
+    "$date": "2021-09-30T15:31:21.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "616d5a07521f924182ae9d3b"
+  },
+  "isdeleted": false,
+  "name": "Background Radiation",
+  "topic_id": {
+    "$oid": "6154928d521f924182ae9c96"
+  },
+  "level": 3,
+  "order": -137,
+  "image": "/images/f1c277d4615bcd1f24758b8075edeb0d.jpg",
+  "createdAt": {
+    "$date": "2021-10-18T11:27:03.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61a8bdb4521f924182ae9db9"
+  },
+  "isdeleted": false,
+  "name": "Homeostasis",
+  "topic_id": {
+    "$oid": "60dda6d627dbc37ef0be8e04"
+  },
+  "level": 1,
+  "order": 70,
+  "image": "/images/f29294f1935f91a6018baa233daf071f.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:36:04.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b884ee2c13a37e3174096c"
+  },
+  "isdeleted": false,
+  "name": "Mathematical Formulae and Functions",
+  "topic_id": {
+    "$oid": "61994fd0521f924182ae9db0"
+  },
+  "level": 2,
+  "order": 55,
+  "image": "/images/9d15377aafa9544b81798c120498cd2e.jpg",
+  "createdAt": {
+    "$date": "2021-12-14T11:50:06.769Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61b885d52c13a37e3174096f"
+  },
+  "isdeleted": false,
+  "name": "Equations and Inequalities",
+  "topic_id": {
+    "$oid": "61994fd0521f924182ae9db0"
+  },
+  "level": 3,
+  "order": 52,
+  "image": "/images/f12a4192e0cc873807e6b2dc66c703e1.jpg",
+  "createdAt": {
+    "$date": "2021-12-14T11:53:57.026Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "61d585b22c13a37e317409b1"
+  },
+  "isdeleted": false,
+  "name": "Adaptation and Competition",
+  "topic_id": {
+    "$oid": "60dda72127dbc37ef0be8e06"
+  },
+  "level": 1,
+  "order": 89,
+  "image": "/images/82331a0deed16cdb69800c09543eecc7.jpg",
+  "createdAt": {
+    "$date": "2022-01-05T11:49:06.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6361a2492aa7bc65f174d90f"
+  },
+  "isdeleted": false,
+  "name": "Fertilisers",
+  "topic_id": {
+    "$oid": "60dda605dfd6220cf6dd2eaa"
+  },
+  "level": 3,
+  "order": 152,
+  "image": "/images/276e40a17cf6a02e242b162ab446dc7d.png",
+  "createdAt": {
+    "$date": "2022-11-01T22:48:41.719Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63775ec12aa7bc65f174d983"
+  },
+  "isdeleted": false,
+  "name": "Wave Properties",
+  "topic_id": {
+    "$oid": "6367d0fd2aa7bc65f174d941"
+  },
+  "level": 1,
+  "order": 180,
+  "image": "/images/e8649b8b31f0b4e601a981f0c70be8dc.png",
+  "createdAt": {
+    "$date": "2022-11-18T10:30:25.890Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "63775fc22aa7bc65f174d986"
+  },
+  "isdeleted": false,
+  "name": "Waves and Boundaries",
+  "topic_id": {
+    "$oid": "6367d0fd2aa7bc65f174d941"
+  },
+  "level": 2,
+  "order": 177,
+  "image": "/images/f1513e5a724d7191d9b43f5bcad50a0b.png",
+  "createdAt": {
+    "$date": "2022-11-18T10:34:42.846Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "637760a72aa7bc65f174d988"
+  },
+  "isdeleted": false,
+  "name": "Visible Light",
+  "topic_id": {
+    "$oid": "6367d0fd2aa7bc65f174d941"
+  },
+  "level": 3,
+  "order": 175,
+  "image": "/images/fb4c001a600d25bf4d35ca74566c138f.png",
+  "createdAt": {
+    "$date": "2022-11-18T10:38:31.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64011b0e2aa7bc65f174da60"
+  },
+  "isdeleted": false,
+  "name": "Time and Structure",
+  "topic_id": {
+    "$oid": "6401136c2aa7bc65f174da58"
+  },
+  "level": 3,
+  "order": 213,
+  "image": "/images/71d432070f124303cc66ed5bfb719e53.jpg",
+  "createdAt": {
+    "$date": "2023-03-02T21:54:22.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64996d332aa7bc65f174db3c"
+  },
+  "isdeleted": false,
+  "name": "Basic Beliefs and Practices",
+  "topic_id": {
+    "$oid": "6491bd6a2aa7bc65f174db1a"
+  },
+  "level": 1,
+  "order": -205,
+  "image": "/images/138946096a1ffa96401958d59eb12c6c.png",
+  "createdAt": {
+    "$date": "2023-06-26T10:49:23.381Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64996e752aa7bc65f174db3e"
+  },
+  "isdeleted": false,
+  "name": "Quran and Hadith",
+  "topic_id": {
+    "$oid": "6491bd6a2aa7bc65f174db1a"
+  },
+  "level": 1,
+  "order": -206,
+  "image": "/images/a2911dc94d546547cdfc80bf60a65247.png",
+  "createdAt": {
+    "$date": "2023-06-26T10:54:45.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a006681929d8048c2a5107"
+  },
+  "isdeleted": false,
+  "name": "Romeo and Juliet: Plot and Character Analysis",
+  "topic_id": {
+    "$oid": "64a003931929d8048c2a4f67"
+  },
+  "level": 1,
+  "order": 450,
+  "image": "/images/a568e6dcd7ca73f4af6a13a566b8bd64.png",
+  "createdAt": {
+    "$date": "2023-07-01T10:56:40.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a006ac1929d8048c2a5374"
+  },
+  "isdeleted": false,
+  "name": "Romeo and Juliet: Setting and Historical Context",
+  "topic_id": {
+    "$oid": "64a003931929d8048c2a4f67"
+  },
+  "level": 1,
+  "order": 449,
+  "image": "/images/412430bf90c14eabb546ff97ecb5f359.png",
+  "createdAt": {
+    "$date": "2023-07-01T10:57:48.374Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a006da1929d8048c2a54ad"
+  },
+  "isdeleted": false,
+  "name": "Romeo and Juliet: Themes and Motifs",
+  "topic_id": {
+    "$oid": "64a003931929d8048c2a4f67"
+  },
+  "level": 1,
+  "order": 448,
+  "image": "/images/2fcc43dedd8842970a28dc2c5d6f09ae.png",
+  "createdAt": {
+    "$date": "2023-07-01T10:58:34.256Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a007531929d8048c2a55e6"
+  },
+  "isdeleted": false,
+  "name": "Romeo and Juliet: Characterisation and Narrative Techniques",
+  "topic_id": {
+    "$oid": "64a003931929d8048c2a4f67"
+  },
+  "level": 2,
+  "order": 447,
+  "image": "/images/fd5d3cbd0a5d55dd182834dc6fffbb49.png",
+  "createdAt": {
+    "$date": "2023-07-01T11:00:35.482Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a008421929d8048c2a571f"
+  },
+  "isdeleted": false,
+  "name": "Romeo and Juliet: Language and Style",
+  "topic_id": {
+    "$oid": "64a003931929d8048c2a4f67"
+  },
+  "level": 2,
+  "order": 446,
+  "image": "/images/c4a50a999cc13f6790024417cf793bd0.png",
+  "createdAt": {
+    "$date": "2023-07-01T11:04:34.859Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a008681929d8048c2a5858"
+  },
+  "isdeleted": false,
+  "name": "Romeo and Juliet: Analysis of Key Scenes",
+  "topic_id": {
+    "$oid": "64a003931929d8048c2a4f67"
+  },
+  "level": 2,
+  "order": 445,
+  "image": "/images/7bca314a5161f7e2e672e639bd96da66.png",
+  "createdAt": {
+    "$date": "2023-07-01T11:05:12.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a008aa1929d8048c2a5991"
+  },
+  "isdeleted": false,
+  "name": "Romeo and Juliet: Exploration of Love and Passion",
+  "topic_id": {
+    "$oid": "64a003931929d8048c2a4f67"
+  },
+  "level": 3,
+  "order": 444,
+  "image": "/images/dd3091e7156656cc7b3bd60b7de0db2a.png",
+  "createdAt": {
+    "$date": "2023-07-01T11:06:18.871Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a0091f1929d8048c2a5aca"
+  },
+  "isdeleted": false,
+  "name": "Romeo and Juliet: Examination of Fate and Free Will",
+  "topic_id": {
+    "$oid": "64a003931929d8048c2a4f67"
+  },
+  "level": 3,
+  "order": 444,
+  "image": "/images/410ebfdfb48a547931fd05bef021100d.png",
+  "createdAt": {
+    "$date": "2023-07-01T11:08:15.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a009591929d8048c2a5c03"
+  },
+  "isdeleted": false,
+  "name": "Romeo and Juliet: Symbolism and Imagery",
+  "topic_id": {
+    "$oid": "64a003931929d8048c2a4f67"
+  },
+  "level": 3,
+  "order": 443,
+  "image": "/images/16becc0e8ecfa149ed20385aada5ec22.png",
+  "createdAt": {
+    "$date": "2023-07-01T11:09:13.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a009c21929d8048c2a5e78"
+  },
+  "isdeleted": false,
+  "name": "Romeo and Juliet: Analysis of Social, Political, and Cultural Aspects",
+  "topic_id": {
+    "$oid": "64a003931929d8048c2a4f67"
+  },
+  "level": 3,
+  "order": 441,
+  "image": "/images/7ed798a7afc2448d2e65553ae9bd14ad.png",
+  "createdAt": {
+    "$date": "2023-07-01T11:10:58.369Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b29803d64a30072bbf6106"
+  },
+  "isdeleted": false,
+  "name": "Musculoskeletal System I",
+  "topic_id": {
+    "$oid": "64b294eed64a30072bbf6100"
+  },
+  "level": 1,
+  "order": 460,
+  "image": "/images/34f29b5cc2a46457dc0507868f098438.png",
+  "createdAt": {
+    "$date": "2023-07-15T12:58:43.672Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b29849d64a30072bbf6107"
+  },
+  "isdeleted": false,
+  "name": "Cardiovascular System",
+  "topic_id": {
+    "$oid": "64b294eed64a30072bbf6100"
+  },
+  "level": 1,
+  "order": 459,
+  "image": "/images/977042202701d55b58de0904757545b6.png",
+  "createdAt": {
+    "$date": "2023-07-15T12:59:53.138Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b2990ed64a30072bbf6108"
+  },
+  "isdeleted": false,
+  "name": "Respiratory System",
+  "topic_id": {
+    "$oid": "64b294eed64a30072bbf6100"
+  },
+  "level": 1,
+  "order": 458,
+  "image": "/images/ad49af8fe9176d321597e254c36a38f1.png",
+  "createdAt": {
+    "$date": "2023-07-15T13:03:10.515Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b29938d64a30072bbf6109"
+  },
+  "isdeleted": false,
+  "name": "Energy Systems",
+  "topic_id": {
+    "$oid": "64b294eed64a30072bbf6100"
+  },
+  "level": 2,
+  "order": 457,
+  "image": "/images/0683d58a92ff66cdc185bf162ca28834.png",
+  "createdAt": {
+    "$date": "2023-07-15T13:03:52.690Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b29955d64a30072bbf610a"
+  },
+  "isdeleted": false,
+  "name": "Musculoskeletal System II",
+  "topic_id": {
+    "$oid": "64b294eed64a30072bbf6100"
+  },
+  "level": 2,
+  "order": 455,
+  "image": "/images/b73b8465baa9f42efafd6abf4259dd7b.png",
+  "createdAt": {
+    "$date": "2023-07-15T13:04:21.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbae71d64a30072bbf6125"
+  },
+  "isdeleted": false,
+  "name": "Lever Systems in Sporting Movements",
+  "topic_id": {
+    "$oid": "64b29519d64a30072bbf6101"
+  },
+  "level": 1,
+  "order": 470,
+  "image": "/images/0d8414d6437c7716fb517a41683a5f45.png",
+  "createdAt": {
+    "$date": "2023-07-22T10:24:49.234Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbae9ad64a30072bbf6126"
+  },
+  "isdeleted": false,
+  "name": "Mechanical Advantage in Lever Systems",
+  "topic_id": {
+    "$oid": "64b29519d64a30072bbf6101"
+  },
+  "level": 1,
+  "order": 469,
+  "image": "/images/ab0b38e5789b8b736e5ee909c05bcda9.png",
+  "createdAt": {
+    "$date": "2023-07-22T10:25:30.952Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbaecfd64a30072bbf6127"
+  },
+  "isdeleted": false,
+  "name": "Planes and Axes of Movement in Sporting Actions",
+  "topic_id": {
+    "$oid": "64b29519d64a30072bbf6101"
+  },
+  "level": 1,
+  "order": 468,
+  "image": "/images/daf3e632d780d617d214593a851e7d1a.png",
+  "createdAt": {
+    "$date": "2023-07-22T10:26:23.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbaf49d64a30072bbf6128"
+  },
+  "isdeleted": true,
+  "name": "Advanced Analysis of Sporting Movements",
+  "topic_id": {
+    "$oid": "64b29519d64a30072bbf6101"
+  },
+  "level": 2,
+  "order": 467,
+  "image": "/images/21adc28f7d8af841e2451d7981bdf64c.png",
+  "createdAt": {
+    "$date": "2023-07-22T10:28:25.876Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bbaf66d64a30072bbf6129"
+  },
+  "isdeleted": true,
+  "name": "Biomechanics and Performance Enhancement",
+  "topic_id": {
+    "$oid": "64b29519d64a30072bbf6101"
+  },
+  "level": 2,
+  "order": 466,
+  "image": "/images/1e7e18e3dc25aa07319239f781f2af3f.png",
+  "createdAt": {
+    "$date": "2023-07-22T10:28:54.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0f597eae9b05ac19bac6e"
+  },
+  "isdeleted": false,
+  "name": "Health, Fitness, and Components of Fitness",
+  "topic_id": {
+    "$oid": "64b29554d64a30072bbf6102"
+  },
+  "level": 1,
+  "order": 480,
+  "image": "/images/3bfc2ee41ba681151fa5034a4ae94c3f.png",
+  "createdAt": {
+    "$date": "2023-08-07T13:45:59.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0f5c0eae9b05ac19bac6f"
+  },
+  "isdeleted": false,
+  "name": "Fitness Testing and Principles of Training",
+  "topic_id": {
+    "$oid": "64b29554d64a30072bbf6102"
+  },
+  "level": 1,
+  "order": 479,
+  "image": "/images/a0403c45cd3cff8b019363b024d24099.png",
+  "createdAt": {
+    "$date": "2023-08-07T13:46:40.392Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0f766eae9b05ac19bac70"
+  },
+  "isdeleted": false,
+  "name": "Types of Training and Injury Prevention",
+  "topic_id": {
+    "$oid": "64b29554d64a30072bbf6102"
+  },
+  "level": 1,
+  "order": 478,
+  "image": "/images/49f97cb6fb4fe062fe21ba557c5b4d37.png",
+  "createdAt": {
+    "$date": "2023-08-07T13:53:42.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0f78eeae9b05ac19bac71"
+  },
+  "isdeleted": false,
+  "name": "Advanced Fitness Components and Training Aims",
+  "topic_id": {
+    "$oid": "64b29554d64a30072bbf6102"
+  },
+  "level": 2,
+  "order": 477,
+  "image": "/images/de8dcbe65f3023a4924b4fe092958fab.png",
+  "createdAt": {
+    "$date": "2023-08-07T13:54:22.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0f7aaeae9b05ac19bac72"
+  },
+  "isdeleted": false,
+  "name": "Advanced Training Techniques and Periodization",
+  "topic_id": {
+    "$oid": "64b29554d64a30072bbf6102"
+  },
+  "level": 2,
+  "order": 476,
+  "image": "/images/0033aa5abfd81950c84257ff680288c8.png",
+  "createdAt": {
+    "$date": "2023-08-07T13:54:50.147Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0f7c4eae9b05ac19bac73"
+  },
+  "isdeleted": false,
+  "name": "Injury Prevention and Performance Optimization",
+  "topic_id": {
+    "$oid": "64b29554d64a30072bbf6102"
+  },
+  "level": 2,
+  "order": 475,
+  "image": "/images/934687da2a37040f5049853842b4beb8.png",
+  "createdAt": {
+    "$date": "2023-08-07T13:55:16.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dceb89e8f91938558287b7"
+  },
+  "isdeleted": true,
+  "name": "Health, Fitness, and Components of Fitness (Duplicate)",
+  "topic_id": {
+    "$oid": "64b29554d64a30072bbf6102"
+  },
+  "level": 1,
+  "order": 480,
+  "image": "/images/3bfc2ee41ba681151fa5034a4ae94c3f.png",
+  "createdAt": {
+    "$date": "2023-08-07T13:45:59.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dced2fe8f9193855828a75"
+  },
+  "isdeleted": true,
+  "name": "3 Witches Quotes (Duplicate)",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 207,
+  "image": "/images/faba8474ecc183bbba2f138f82e306c2.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:03.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dceeb028b60e3c86264bbb"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dceef228b60e3c86264bc5"
+  },
+  "isdeleted": true,
+  "name": "3 Witches Quotes (Duplicate)",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 207,
+  "image": "/images/faba8474ecc183bbba2f138f82e306c2.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:03.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dcefe1702cc73e165313d2"
+  },
+  "isdeleted": true,
+  "name": "3 Witches Quotes (Duplicate)",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 207,
+  "image": "/images/faba8474ecc183bbba2f138f82e306c2.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:03.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dcf00739a0df3e3929f1f5"
+  },
+  "isdeleted": true,
+  "name": "3 Witches Quotes (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 207,
+  "image": "/images/faba8474ecc183bbba2f138f82e306c2.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:03.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dcf0c6def8a33f4d659be9"
+  },
+  "isdeleted": true,
+  "name": "3 Witches Quotes (Duplicate)",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 207,
+  "image": "/images/faba8474ecc183bbba2f138f82e306c2.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:03.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dcf0f36b28223f9042b121"
+  },
+  "isdeleted": true,
+  "name": "3 Witches Quotes (Duplicate)",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 207,
+  "image": "/images/faba8474ecc183bbba2f138f82e306c2.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:03.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dcf1939520de4047439bb8"
+  },
+  "isdeleted": true,
+  "name": "3 Witches Quotes (Duplicate)",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 207,
+  "image": "/images/faba8474ecc183bbba2f138f82e306c2.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:03.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dcf393468f3a42ebcba9cf"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dcf926c1836a4681283b79"
+  },
+  "isdeleted": true,
+  "name": "Health, Fitness, and Components of Fitness (Duplicate)",
+  "topic_id": {
+    "$oid": "64b29554d64a30072bbf6102"
+  },
+  "level": 1,
+  "order": 480,
+  "image": "/images/3bfc2ee41ba681151fa5034a4ae94c3f.png",
+  "createdAt": {
+    "$date": "2023-08-07T13:45:59.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dcf9ca8549764827563b6b"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dcfba2a29c274a34b903f3"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64de94c64d7882bbe4007e78"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64de94d14d7882bbe4007e82"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64de9609199506bd4472a450"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate) (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64de974b8b01cdbeeb944b68"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate) (Duplicate) (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e2dcf88b01cdbeeb944b76"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate) (Duplicate) (Duplicate) (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e36c1b4a395ff6e595fb93"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e36d0ca14e45055acb84d4"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e36dbc2f8e9905fd88c7fd"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e373b34a395ff6e595fb9d"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate) (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e373dd2f8e9905fd88c7fe"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate) (Duplicate) (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e374262f8e9905fd88c7ff"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate) (Duplicate) (Duplicate) (Duplicate) (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e3797f829b3e09588e69d5"
+  },
+  "isdeleted": true,
+  "name": "3 Witches Quotes (Duplicate)",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 207,
+  "image": "/images/faba8474ecc183bbba2f138f82e306c2.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:03.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37984829b3e09588e69d6"
+  },
+  "isdeleted": true,
+  "name": "3 Witches Quotes (Duplicate)",
+  "topic_id": {
+    "$oid": "63fd218a410690059ed2c9a4"
+  },
+  "level": 1,
+  "order": 207,
+  "image": "/images/faba8474ecc183bbba2f138f82e306c2.jpg",
+  "createdAt": {
+    "$date": "2023-02-28T15:17:03.702Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37a22c264dd0d0d3110c8"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37a4d829b3e09588e69d9"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37a72829b3e09588e69da"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37a91c264dd0d0d3110d2"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37aa5829b3e09588e69db"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37ab7829b3e09588e69dc"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37abe829b3e09588e69dd"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge (Duplicate)",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37c206ece530c94d64116"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37c2d6ece530c94d64117"
+  },
+  "isdeleted": true,
+  "name": "Thematic Studies Challenge",
+  "topic_id": {
+    "$oid": "613cba71521f924182ae9bd5"
+  },
+  "level": 4,
+  "order": 1,
+  "image": "/images/460c2949cc4a51736ec0e5c624c5c2f4.png",
+  "createdAt": {
+    "$date": "2023-02-06T18:23:36.376Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37cbc6ece530c94d64119"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37d7b6ece530c94d6411a"
+  },
+  "isdeleted": false,
+  "name": "Specialised Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 9,
+  "image": "/images/75880e9e2dd1e10650f0294ce06928a6.jpg",
+  "createdAt": {
+    "$date": "2023-08-21T15:06:35.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37d916ece530c94d6411b"
+  },
+  "isdeleted": true,
+  "name": "Diffusion",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 9,
+  "image": "/images/60421d85f731ec01f47e12a286d0cb10.png",
+  "createdAt": {
+    "$date": "2021-06-13T15:10:39.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37d9e6ece530c94d6411c"
+  },
+  "isdeleted": false,
+  "name": "Diffusion",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 9,
+  "image": "/images/60421d85f731ec01f47e12a286d0cb10.png",
+  "createdAt": {
+    "$date": "2021-06-13T15:10:39.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37dd56ece530c94d6411d"
+  },
+  "isdeleted": false,
+  "name": "Microscopy I",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 8,
+  "image": "/images/2e03918f1e57f8c1bb69928bdbe61474.png",
+  "createdAt": {
+    "$date": "2021-06-18T11:12:20.033Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37e216ece530c94d6411e"
+  },
+  "isdeleted": false,
+  "name": "Enzymes I",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 2,
+  "order": 7,
+  "image": "/images/2bc97e0343e5bc732a4c709354b7112a.png",
+  "createdAt": {
+    "$date": "2021-06-18T21:41:19.941Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37e566ece530c94d6411f"
+  },
+  "isdeleted": false,
+  "name": "Microscopy II",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 2,
+  "order": 6,
+  "image": "/images/24ad11e867a62ddffe7399c9ce6c313c.png",
+  "createdAt": {
+    "$date": "2021-06-18T11:18:23.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37e8f6ece530c94d64120"
+  },
+  "isdeleted": false,
+  "name": "Active Transport",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 2,
+  "order": 5,
+  "image": "/images/e89cc4ff65762921bc4dc33cb0dc71b4.png",
+  "createdAt": {
+    "$date": "2021-06-18T11:17:22.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37eb16ece530c94d64121"
+  },
+  "isdeleted": false,
+  "name": "Osmosis",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 3,
+  "order": 4,
+  "image": "/images/0428cc78a3f5c55478e6ac60147fc035.png",
+  "createdAt": {
+    "$date": "2021-06-18T14:18:02.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37ed36ece530c94d64122"
+  },
+  "isdeleted": false,
+  "name": "Enzymes II",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 3,
+  "order": 3,
+  "image": "/images/7abc7b1a23cfc0e0686a18f5b9f88fdd.png",
+  "createdAt": {
+    "$date": "2021-06-28T15:00:28.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e37f2a6ece530c94d64123"
+  },
+  "isdeleted": false,
+  "name": "Digestion and Food Tests",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 3,
+  "order": 2,
+  "image": "/images/72a2ff63c4ed786944f9172d76d19c7e.png",
+  "createdAt": {
+    "$date": "2021-06-28T22:00:23.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e62ba36ece530c94d6412a"
+  },
+  "isdeleted": true,
+  "name": "Internal Test",
+  "topic_id": {
+    "$oid": "64e62b666ece530c94d64129"
+  },
+  "level": 3,
+  "order": 1,
+  "image": "/images/ae0a10e084cfa324b623cbed7a317c3a.jpg",
+  "createdAt": {
+    "$date": "2023-08-23T15:54:11.938Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e797996ece530c94d6412c"
+  },
+  "isdeleted": true,
+  "name": "Testing bubble",
+  "topic_id": {
+    "$oid": "64b29650d64a30072bbf6104"
+  },
+  "level": 1,
+  "order": 500,
+  "image": "/images/331deadbea478ad6af38f1ecd52f9678.jpg",
+  "createdAt": {
+    "$date": "2023-08-24T17:47:05.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e7dd7b6ece530c94d6412f"
+  },
+  "isdeleted": false,
+  "name": "Mitosis",
+  "topic_id": {
+    "$oid": "64e7dbfb6ece530c94d6412e"
+  },
+  "level": 1,
+  "order": 20,
+  "image": "/images/c5d05aadce633795c79a955c40dd1ed6.png",
+  "createdAt": {
+    "$date": "2023-08-24T22:45:15.573Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e7de7c6ece530c94d64130"
+  },
+  "isdeleted": false,
+  "name": "Asexual Reproduction and Cancer",
+  "topic_id": {
+    "$oid": "64e7dbfb6ece530c94d6412e"
+  },
+  "level": 1,
+  "order": 19,
+  "image": "/images/61380299492e50900e2e08aa8223212c.png",
+  "createdAt": {
+    "$date": "2023-08-24T22:49:32.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e7de996ece530c94d64131"
+  },
+  "isdeleted": false,
+  "name": "The Human Nervous System",
+  "topic_id": {
+    "$oid": "64e7dbfb6ece530c94d6412e"
+  },
+  "level": 1,
+  "order": 18,
+  "image": "/images/998c375e064d30fbb2a7d4fbaea2516c.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:36:32.986Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e7df016ece530c94d64132"
+  },
+  "isdeleted": false,
+  "name": "The Arc Reflex",
+  "topic_id": {
+    "$oid": "64e7dbfb6ece530c94d6412e"
+  },
+  "level": 1,
+  "order": 17,
+  "image": "/images/81197ae56c7ef1db19495cbe753b6e2f.png",
+  "createdAt": {
+    "$date": "2023-08-24T22:51:45.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e7df3e6ece530c94d64133"
+  },
+  "isdeleted": false,
+  "name": "Growth",
+  "topic_id": {
+    "$oid": "64e7dbfb6ece530c94d6412e"
+  },
+  "level": 2,
+  "order": 16,
+  "image": "/images/7dd973aebc0ae2e5a1a8671507e4af4d.png",
+  "createdAt": {
+    "$date": "2023-08-24T22:52:46.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e7df536ece530c94d64134"
+  },
+  "isdeleted": false,
+  "name": "Cell Differentiation",
+  "topic_id": {
+    "$oid": "64e7dbfb6ece530c94d6412e"
+  },
+  "level": 2,
+  "order": 15,
+  "image": "/images/096de687e98a3857b4af5ace06691fb9.png",
+  "createdAt": {
+    "$date": "2021-06-18T14:18:25.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e7df9e6ece530c94d64135"
+  },
+  "isdeleted": false,
+  "name": "Stem cells",
+  "topic_id": {
+    "$oid": "64e7dbfb6ece530c94d6412e"
+  },
+  "level": 2,
+  "order": 14,
+  "image": "/images/63e3fe368b70e0866b74f8c347d0cb2c.png",
+  "createdAt": {
+    "$date": "2021-06-18T14:19:13.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e7dfea6ece530c94d64136"
+  },
+  "isdeleted": false,
+  "name": "The Eye",
+  "topic_id": {
+    "$oid": "64e7dbfb6ece530c94d6412e"
+  },
+  "level": 3,
+  "order": 14,
+  "image": "/images/479420ea9b7df866d48e635e4f6563fc.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:49:07.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e7e00f6ece530c94d64137"
+  },
+  "isdeleted": false,
+  "name": "The Brain",
+  "topic_id": {
+    "$oid": "64e7dbfb6ece530c94d6412e"
+  },
+  "level": 3,
+  "order": 13,
+  "image": "/images/f4383f5e650ae216a1b55baaf085d7e8.png",
+  "createdAt": {
+    "$date": "2021-12-02T12:48:42.771Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e7e0626ece530c94d64138"
+  },
+  "isdeleted": false,
+  "name": "Scanning and Treatments of the CNS",
+  "topic_id": {
+    "$oid": "64e7dbfb6ece530c94d6412e"
+  },
+  "level": 3,
+  "order": 12,
+  "image": "/images/6ef80a2fec70981d9f2dd3fbc295b565.png",
+  "createdAt": {
+    "$date": "2023-08-24T22:57:38.752Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f07b8eb863660651576e1a"
+  },
+  "isdeleted": false,
+  "name": "Meiosis",
+  "topic_id": {
+    "$oid": "64f07b02b863660651576e19"
+  },
+  "level": 1,
+  "order": 30,
+  "image": "/images/65010267dc48246f54467e77f19590de.jpg",
+  "createdAt": {
+    "$date": "2023-08-31T11:37:50.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f07ba5b863660651576e1b"
+  },
+  "isdeleted": false,
+  "name": "Genetic Inheritance I",
+  "topic_id": {
+    "$oid": "64f07b02b863660651576e19"
+  },
+  "level": 1,
+  "order": 29,
+  "image": "/images/02e832c7602b1cb18d16d35e51fca59c.jpg",
+  "createdAt": {
+    "$date": "2021-12-11T12:57:02.383Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f07c1eb863660651576e1c"
+  },
+  "isdeleted": false,
+  "name": "Mutation and Variation",
+  "topic_id": {
+    "$oid": "64f07b02b863660651576e19"
+  },
+  "level": 1,
+  "order": 28,
+  "image": "/images/0a41b7ee421e932effd3ec63f30be4da.jpg",
+  "createdAt": {
+    "$date": "2023-08-31T11:40:14.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f07c5ab863660651576e1d"
+  },
+  "isdeleted": false,
+  "name": "The DNA",
+  "topic_id": {
+    "$oid": "64f07b02b863660651576e19"
+  },
+  "level": 2,
+  "order": 27,
+  "image": "/images/d2ac5333ca8453b649dd030d0d7ecf40.jpg",
+  "createdAt": {
+    "$date": "2023-08-31T11:41:14.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f07c6bb863660651576e1e"
+  },
+  "isdeleted": false,
+  "name": "Genetic Inheritance II",
+  "topic_id": {
+    "$oid": "64f07b02b863660651576e19"
+  },
+  "level": 2,
+  "order": 26,
+  "image": "/images/a95f4256a9b5edc8b925c149e19b1b0c.jpg",
+  "createdAt": {
+    "$date": "2021-12-11T12:58:11.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f07cc1b863660651576e1f"
+  },
+  "isdeleted": false,
+  "name": "Sexual and Asexual Reproduction",
+  "topic_id": {
+    "$oid": "64f07b02b863660651576e19"
+  },
+  "level": 3,
+  "order": 25,
+  "image": "/images/1a49f4e75d112176a1700596b0453c0c.jpg",
+  "createdAt": {
+    "$date": "2021-12-10T11:50:20.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f09756b863660651576e20"
+  },
+  "isdeleted": false,
+  "name": "Mendel's Work",
+  "topic_id": {
+    "$oid": "64f07b02b863660651576e19"
+  },
+  "level": 3,
+  "order": 24,
+  "image": "/images/2e11cf5eae15cabfca4bbf17558d5947.jpg",
+  "createdAt": {
+    "$date": "2023-08-31T13:36:22.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f097a0b863660651576e21"
+  },
+  "isdeleted": false,
+  "name": "Genetic Inheritance III",
+  "topic_id": {
+    "$oid": "64f07b02b863660651576e19"
+  },
+  "level": 3,
+  "order": 23,
+  "image": "/images/7f95a72305dd7caeb759d62f238db9f6.jpg",
+  "createdAt": {
+    "$date": "2023-08-31T13:37:36.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f097bdb863660651576e22"
+  },
+  "isdeleted": false,
+  "name": "Genetic Variants",
+  "topic_id": {
+    "$oid": "64f07b02b863660651576e19"
+  },
+  "level": 3,
+  "order": 22,
+  "image": "/images/11755e6369cb864dbc0ba974e992727d.jpg",
+  "createdAt": {
+    "$date": "2023-08-31T13:38:05.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f097e3b863660651576e23"
+  },
+  "isdeleted": false,
+  "name": "Protein Synthesis",
+  "topic_id": {
+    "$oid": "64f07b02b863660651576e19"
+  },
+  "level": 3,
+  "order": 21,
+  "image": "/images/ae17549ab0b22cafca837d0709338da2.jpg",
+  "createdAt": {
+    "$date": "2023-08-31T13:38:43.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f4c1aef5deb7062890afe7"
+  },
+  "isdeleted": true,
+  "name": "Testing bubble",
+  "topic_id": {
+    "$oid": "64b29650d64a30072bbf6104"
+  },
+  "level": 1,
+  "order": 500,
+  "image": "/images/331deadbea478ad6af38f1ecd52f9678.jpg",
+  "createdAt": {
+    "$date": "2023-08-24T17:47:05.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5b6411bb4452cd46c1c66"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5b748b3b77a4664b7dffa"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5b81bb3b77a4664b7e005"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5b84cf5deb7062890afe8"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5b9cc0849a90c4c673489"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64f5b99c0849a90c4c673450"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5bcecf5deb7062890afea"
+  },
+  "isdeleted": true,
+  "name": "Cells(Test)",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5bf8dd709f742506fdeb8"
+  },
+  "isdeleted": true,
+  "name": "Testing PE",
+  "topic_id": {
+    "$oid": "64f5bf5ad709f742506fde80"
+  },
+  "level": 1,
+  "order": 46,
+  "image": "/images/8227b4aeb177794797e28f3295f14a83.jpg",
+  "createdAt": {
+    "$date": "2023-09-04T11:29:17.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5c423d709f742506fdfbe"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5c4a9f5deb7062890afeb"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5c51ff5deb7062890afec"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5c85df5deb7062890afed"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5c90365702830a0e0578e"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5c97565702830a0e0579c"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5ca0b65702830a0e057af"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5ca7865702830a0e057bc"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5cb4a65702830a0e057cb"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5cce765702830a0e057d6"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5cd19f5deb7062890afee"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5cd4b65702830a0e057e1"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5ce2065702830a0e057e9"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d43a131c493570fdb992"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d482131c493570fdb996"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d56df5deb7062890afef"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d587f5deb7062890aff0"
+  },
+  "isdeleted": true,
+  "name": "Cells(Test)",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d67ef5deb7062890aff1"
+  },
+  "isdeleted": true,
+  "name": "Cells(Testing) 1 2 3",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d71ff5deb7062890aff2"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d767131c493570fdb9b4"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d81d131c493570fdb9bf"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d884131c493570fdb9ca"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d92e131c493570fdb9d6"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d96f6ce894289851f4d0"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5d9d66ce894289851f4e1"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5da45a1239d092425c643"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5dadda1239d092425c651"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5dc41a1239d092425c66b"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5dc7a7483cd11c477de8c"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5dcba7483cd11c477de97"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5dcf15823e143cc5953dc"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5de185823e143cc5953ee"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f5de9f0f8317398c0a52c3"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f7152f78bf502c602d7d41"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f71a86056c4937ec91aafc"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f71ac6056c4937ec91ab0a"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f71af9056c4937ec91ab18"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f71b2a056c4937ec91ab23"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f71b91056c4937ec91ab31"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f71cbb056c4937ec91ab3c"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f71cd9056c4937ec91ab47"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f71cf5056c4937ec91ab52"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f73303f12ed649d42b86b1"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/b575897d2d632c361d68b89dc255cbc6.png",
+  "createdAt": {
+    "$date": "2021-06-08T21:24:50.184Z"
+  },
+  "__v": 0,
+  "duplicateId": {
+    "$oid": "64e37cbc6ece530c94d64119"
+  }
+},
+{
+  "_id": {
+    "$oid": "6506dbd1b378c109a02fb2e6"
+  },
+  "isdeleted": false,
+  "name": "Darwin's Theory",
+  "topic_id": {
+    "$oid": "6507772ffcb6ce2ee473b3e6"
+  },
+  "level": 1,
+  "order": 90,
+  "image": "images/4055ec9e1bae964e341db22e39166412.png",
+  "createdAt": {
+    "$date": "2023-09-17T10:58:25.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6506fb8d7a39441ad8076113"
+  },
+  "isdeleted": true,
+  "name": "test1",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 2,
+  "order": 4,
+  "image": "images/1464c9ab2121a22c8e23f960924df4f0.png",
+  "createdAt": {
+    "$date": "2023-09-17T13:13:49.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65099ec427f1a323afe8672c"
+  },
+  "isdeleted": true,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/9b942ac8042364612dd8607d81d2366d.jpg",
+  "createdAt": {
+    "$date": "2023-09-19T13:14:44.838Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509b0c827f1a323afe86818"
+  },
+  "isdeleted": true,
+  "name": "Cells Test",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/47c0ad5d45cabc349e7f3f98e88c3726.jpg",
+  "createdAt": {
+    "$date": "2023-09-19T14:31:36.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6509b29027f1a323afe86877"
+  },
+  "isdeleted": true,
+  "name": "Why",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/55174c01c7a98640db1ca64fc3c2cb6d.png",
+  "createdAt": {
+    "$date": "2023-09-19T14:39:12.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c850c8f677b08ee60ee33"
+  },
+  "isdeleted": false,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "60cc8010dfd6220cf6dd2e41"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/25487dbb50d94d183ebd62a1a4c586e0.png",
+  "createdAt": {
+    "$date": "2023-09-21T18:01:48.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650c851e8f677b08ee60ee73"
+  },
+  "isdeleted": false,
+  "name": "Cells",
+  "topic_id": {
+    "$oid": "64e37c6a6ece530c94d64118"
+  },
+  "level": 1,
+  "order": 10,
+  "image": "/images/25487dbb50d94d183ebd62a1a4c586e0.png",
+  "createdAt": {
+    "$date": "2023-09-21T18:01:48.458Z"
+  },
+  "__v": 0,
+  "duplicateId": {
+    "$oid": "650c850c8f677b08ee60ee33"
+  }
+},
+{
+  "_id": {
+    "$oid": "650c85928f677b08ee60eebe"
+  },
+  "isdeleted": false,
+  "name": "Test",
+  "topic_id": {
+    "$oid": "60db2b5ddfd6220cf6dd2ea3"
+  },
+  "level": 1,
+  "order": 10000,
+  "image": "/images/ae195be9062f24430d41c51798eccaef.png",
+  "createdAt": {
+    "$date": "2023-09-21T18:04:02.592Z"
+  },
+  "__v": 0
+}]
